@@ -1,0 +1,13 @@
+input: ./markdown
+output: output
+url: http://mateo.ltd/moderation
+branding:
+  title: Moderación en GatitosWorld
+  label: Docs
+links:
+- text: Página principal
+  link: https://mateo.ltd
+- text: Guía de moderación
+  link: .
+footer:
+  copyright: "&copy; Copyright {{ year }}. Todos los derechos reservados."

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mateo | Guía de Moderación</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.5.0/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  
+  <meta name="og:name" content="Moderación | MateoLTD">
+  <meta name="description" content="¡Bienvenido(a) a la Guía de Moderación Espacial!">
+  <meta name="keywords" content="guía, moderación, espacio, respuestas, preguntas">
+  <meta property="og:image" content="https://mateo.ltd/moderation/media/modbadge.png">
+  <style>
+    body {
+      background-color: #111111;
+      color: #ffffff;
+      font-family: 'Montserrat', sans-serif;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 18px;
+      margin-bottom: 40px;
+    }
+
+    .btn {
+      font-size: 18px;
+      padding: 12px 30px;
+      border-radius: 50px;
+      background-color: #1956AF;
+      color: #ffffff;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+
+    .btn:hover {
+      background-color: #1C68C3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="animate__animated animate__fadeInDown">¡Bienvenido(a) a la Guía de Moderación Espacial!</h1>
+    <p class="animate__animated animate__fadeIn" id="typed"></p>
+    <a href="./bienvenida" class="btn animate__animated animate__fadeIn">Explora el Espacio</a>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+  <script>
+    var typed = new Typed('#typed', {
+      strings: ['Seguramente tengas muchas preguntas, pero tenemos una buena noticia. ¡Aquí tenemos respuestas!'],
+      typeSpeed: 60,
+      backSpeed: 30,
+      loop: true,
+      showCursor: false
+    });
+  </script>
+</body>
+</html>

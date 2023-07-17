@@ -1,0 +1,1 @@
+# El contenido sugestivo y el contenido restringido, ¿son lo mismo?

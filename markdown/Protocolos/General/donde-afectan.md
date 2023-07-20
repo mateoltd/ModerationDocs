@@ -18,6 +18,7 @@ Se contemplan desde implementación de sanciones hasta tratamiento de ciertas si
 1. Incumplimiento de las normas. ¿Cómo gestionarlo? ¿Cuándo debo de hacer qué?
 2. Contenido sugestivo y contenido restringido
 3. Utilización actual del lenguaje
+4. Discord: Uso del sistema IAR
 === Misceláneo
 4. Solicitudes, exigencias, recabdamiento\* de información.
 5. Cómo gestionar un reporte.

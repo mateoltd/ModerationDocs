@@ -1,7 +1,13 @@
+---
+author:
+    name: Mateo R.
+    avatar: ../../../media/avatar/mateo.jpg
+---
 # Uso inadecuado del lenguaje: las barreras
 Todos sabemos que en un idioma tan amplio como el español, se pueden hacer usos muy distintos, movido por el entorno de cada uno de los hablantes, donde la educación y sus bases culturales juegan un papel muy importante.<br>
 Con tantas personas en el mundo, es muy difícil establecer unas reglas y unos procedimientos estrictos que engloben a toda la población, puesto a que nadie habla de la misma forma.
 
+## ¿Cómo afrontar esto?
 La solución que ofrecen algunas plataformas, es bloquear<sup>1</sup> ciertos vocablos con el objetivo de prevenir los comportamientos abusivos y las faltas de respeto.
 Esta solución aunque suele ser efectiva, no es la ideal: muchas veces no se toma en cuenta el contexto de la conversación y esto genera ciertos límites en la libertad de expresión de cada individuo; a veces las personas se sienten presionadas a hablar de un modo concreto, tienen la sensación de no poder expresarse correctamente y esto provoca incomodidad que se nota durante las conversaciones.
 

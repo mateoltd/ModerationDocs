@@ -84,29 +84,29 @@ Se ha detectado automáticamente que estás usando un dispositivo con una resolu
 !!!
 Imagina que estás en un canal de texto tranquilamente y te encuentras con esto:
 <div class="clearfix">
-    <img src="../../../../media/ej/ej_IAR_1.png" width="300" height="200" style="margin-bottom: 1.5rem;">
+    <img src="../../../media/ej/ej_IAR_1.png" width="300" height="200" style="margin-bottom: 1.5rem;">
 </div>
 
 En el pasado, debías de dirigirte al [sitio oficial de reportes de Discord](https://dis.gd/report) y rellenar un formulario para notificar de esto. Ciertos servidores vetan el acceso, también, de estos usuarios.
 Ahora, es tan sencillo como seguir este procedimiento para notificar a la plataforma:
 
 <div class="clearfix">
-    <img src="../../../../media/ej/ej_IAR_2.png" width="550" height="50">
-    <img src="../../../../media/ej/ej_IAR_3.png" width="300" height="100" style="margin-bottom: 1.5rem;">
+    <img src="../../../media/ej/ej_IAR_2.png" width="550" height="50">
+    <img src="../../../media/ej/ej_IAR_3.png" width="300" height="100" style="margin-bottom: 1.5rem;">
 </div>
 
 A continuación debemos indicar el motivo de la solicitud, que como no es ninguna de las opciones que aparecen, aparecerá en la sección _Otro_:
 
 <div class="clearfix clearfix2">
-    <img src="../../../../media/ej/ej_IAR_4.png" width="300" height="100">
-    <img src="../../../../media/ej/ej_IAR_5.png" width="250" height="100">
+    <img src="../../../media/ej/ej_IAR_4.png" width="300" height="100">
+    <img src="../../../media/ej/ej_IAR_5.png" width="250" height="100">
 </div>
 
 Seleccionamos lo que nos concierne, que es un problema de la edad del usuario (_para estar en Discord, debes de tener trece o más años según lo establecido en los [Términos y Condiciones](https://discord.com/terms)) y respondemos adecuadamente a las preguntas que el interfaz nos formule.
 
 <div class="clearfix clearfix2">
-    <img src="../../../../media/ej/ej_IAR_6.png" width="200" height="100">
-    <img src="../../../../media/ej/ej_IAR_7.png" width="200" height="100">
+    <img src="../../../media/ej/ej_IAR_6.png" width="200" height="100">
+    <img src="../../../media/ej/ej_IAR_7.png" width="200" height="100">
 </div>
 
 Es un proceso muy sencillo que no toma más de unos segundos, como se puede observar en las imágenes. Gracias a esto, contribuimos al ecosistema de la plataforma y aumentamos la seguridad en ella, como moderadores.
@@ -119,7 +119,7 @@ Se ha detectado automáticamente que estás usando un dispositivo con una resolu
 !!!
 Imagina que estás en un canal de texto tranquilamente y te encuentras con esto:
 <div class="clearfix">
-    <img src="../../../../media/ej/ej_MIAR_1.png" width="300" height="200" style="margin-bottom: 1.5rem;">
+    <img src="../../../media/ej/ej_MIAR_1.png" width="300" height="200" style="margin-bottom: 1.5rem;">
 </div>
 
 En el pasado, debías de dirigirte al [sitio oficial de reportes de Discord](https://dis.gd/report) y rellenar un formulario para notificar de esto. Ciertos servidores vetan el acceso, también, de estos usuarios.
@@ -127,21 +127,21 @@ Ahora, es tan sencillo como seguir este procedimiento:
 
 - Mantenemos presionado el mensaje que vemos que tiene la infracción y nos dará pie a este menú:
 <div class="clearfix">
-    <img src="../../../../media/ej/ej_MIAR_2.png" width="550" height="50">
-    <img src="../../../../media/ej/ej_MIAR_3.png" width="300" height="100" style="margin-bottom: 1.5rem;">
+    <img src="../../../media/ej/ej_MIAR_2.png" width="550" height="50">
+    <img src="../../../media/ej/ej_MIAR_3.png" width="300" height="100" style="margin-bottom: 1.5rem;">
 </div>
 
 - A continuación debemos indicar el motivo de la solicitud, que como no es ninguna de las opciones que aparecen, aparecerá en la sección _Otro_:
 
 <div class="clearfix">
-    <img src="../../../../media/ej/ej_MIAR_4.jpeg" width="300" height="100">
+    <img src="../../../media/ej/ej_MIAR_4.jpeg" width="300" height="100">
     <img src="../../../../media/ej/ej_MIAR_5.jpeg" width="250" height="100">
 </div>
 
 - Seleccionamos lo que nos concierne, que es un problema de la edad del usuario (_para estar en Discord, debes de tener trece o más años según lo establecido en los [Términos y Condiciones](https://discord.com/terms)_) y respondemos adecuadamente a las preguntas que el interfaz nos formule, lo cual nos deja finalmente en el resumen para finalmente enviarlo:
 
 <div class="clearfix">
-    <img src="../../../../media/ej/ej_MIAR_6.png" width="300" height="200">
+    <img src="../../../media/ej/ej_MIAR_6.png" width="300" height="200">
 </div>
 
 Es un proceso muy sencillo que no toma más de unos segundos, como se puede observar en las imágenes. Gracias a esto, contribuimos al ecosistema de la plataforma y aumentamos la seguridad en ella, como moderadores.

@@ -1,1 +1,0 @@
-# Privacidad, ¿eso qué es?

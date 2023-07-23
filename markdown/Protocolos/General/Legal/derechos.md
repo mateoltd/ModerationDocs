@@ -1,1 +1,0 @@
-# Derechos de los usuarios y sus límites

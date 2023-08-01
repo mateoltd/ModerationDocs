@@ -6,7 +6,6 @@ author:
 ---
 <style>
     body {
-        max-width: 90%;
         margin: 0 auto;
     }
     img {

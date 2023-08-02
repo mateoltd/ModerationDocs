@@ -4,7 +4,7 @@ author:
     - name: Mateo R.
       avatar: ../../../media/avatar/mateo.jpg
     - name: Aranda
-      avatar: https://cdn.discordapp.com/attachments/1112425431321280622/1136098234163548281/21cbd6c7efa053011d8d03b67dbea45d.png
+      avatar: https://cdn.discordapp.com/attachments/1112425431321280622/1136105296247398470/IMG_1164.jpg
 ---
 # Atender solicitudes o <em>tickets</em>
 El formato de las solicitudes puede variar dependiendo de la plataforma y lo que la administración decida más adecuado para atender las cuestiones de un usuario.

@@ -1,3 +1,6 @@
+---
+order: 100
+---
 # Reglas del servidor
 !!!warning ¡Aviso navegantes!
 Todo el contenido de este documento es de uso exclusivo para todos los miembros del servidor, incluyendo los miembros del equipo de moderación.

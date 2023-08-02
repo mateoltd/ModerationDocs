@@ -1,3 +1,6 @@
+---
+order: 99
+---
 # Reglas Internas para el Equipo
 !!!warning ¡Aviso navegantes!
 Todo el contenido afecta a la totalidad de equipo, desde [!badge icon="../media/moderador.webp" variant="danger" text="@Moderador" size="l"] hasta [!badge icon="../media/direccion.webp" variant="warning" text="@Dirección" size="l"].

@@ -26,6 +26,7 @@ Se contemplan desde implementación de sanciones hasta tratamiento de ciertas si
 7. Resolución de conflictos.
 === Legal
 8. Privacidad como derecho humano. ¿Qué debo saber? ¿En qué le afecta a los usuarios? ¿A mí?
+9. Derechos y obligaciones del usuario.
 === 
 
 

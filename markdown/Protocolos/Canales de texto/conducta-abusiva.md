@@ -30,3 +30,6 @@ Se considera como *comportamiento o contucta inadecuada* cuando un usuario se mu
 Como de costumbre, de 2 a 3 avisos, según el principio de [Incumplimiento de normativas. ¿Qué hacer?](../Generales/Sanciones/incumplimiento-de-las-normas.md). Una advertencia formal (o `warn`) en dado caso que persista con esta actitud y un silenciamiento si decide hacer caso omiso a las previas indicaciones, advertencias y la anterior sanción del moderador.
 
 ## Más próximamente...
+
+---
+[!badge variant="primary" text="Redacción por Gumi"](https://instagram.com/memukkita) [!badge variant="ghost" text="Consejera"](#)<br>[!badge variant="secondary" text="Contribución en redacción de Mart"](#) [!badge variant="ghost" text="Moderador del Discord oficial `GatitosWorld`"](https://discord.gg/gatitos)

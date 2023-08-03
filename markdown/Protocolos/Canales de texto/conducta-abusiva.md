@@ -28,3 +28,5 @@ Se considera como *comportamiento o contucta inadecuada* cuando un usuario se mu
 
 ### Procedimiento:
 Como de costumbre, de 2 a 3 avisos, según el principio de [Incumplimiento de normativas. ¿Qué hacer?](../Generales/Sanciones/incumplimiento-de-las-normas.md). Una advertencia formal (o `warn`) en dado caso que persista con esta actitud y un silenciamiento si decide hacer caso omiso a las previas indicaciones, advertencias y la anterior sanción del moderador.
+
+## Más próximamente...

@@ -23,7 +23,7 @@ Esta es la inundación de textos, palabras y/o caracteres (aplica de igual forma
 ### Procedimiento:
 Como es común, las personas no suelen tener conocimiento acerca de *qué es realizar flood* ni cómo afecta de manera negativa dentro de un servidor, y eso se puede discernir con sencillez si nos fijamos en la intención con la que va el mensaje. Para abarcar esta cuestión, la mejor opción sería recomendar al usuario acerca de que la acción que realiza no acata las reglas de la comunidad, y que si persiste puede ser advertido y posteriormente sancionado. El moderador deberá dar de 2 a 3 avisos amigables. En el caso en el que la situación continúe con un pronóstico similar, se procede con una advertencia formalizada (por dar un ejemplo: en [Nuestro Discord](https://discord.gg/gatitos), será una sanción de tipo `warn`); si la respuesta es persistente, dependiendo de los medios, se debería silenciar al usuario o prevenir, en su defecto, que continúe enviando mensajes.
 
-## **Comportamiento inadecuado**
+## Comportamiento **inadecuado**
 Se considera como *comportamiento o contucta inadecuada* cuando un usuario se muestra a la defensiva, realiza comentarios tóxicos, xenófobos, racistas, de índole sexual y/o se encuentra generando un ambiente amargo para las demás personas en el medio. En cuanto a filtración de contenido se puede revisar la página de [contenido sugestivo y contenido inadecuado](../Generales/Sanciones/contenido-sugestivo-vs-restringido.md) para más información.
 
 ### Procedimiento:
@@ -37,24 +37,26 @@ El contenido promocionado o _Spam_ se suele confundir con el _Flood_, puedes rev
 Estas son comunicaciones enviadas que no son solicitadas por su receptor. Siempre buscan patrocinar algo y/o alguien; una red social, ofertas, juegos, etc.
 Hay dos tipos de promociones, directas e indirectas. A continuación, podrás visualizar algunos ejemplos:
 
-### Promociones directas:
-Cuando patrocinan cualquier tipo de categorías ya mencionadas que traen consigo un enlace directo o, mismamente, el nombre para llegar o acceder al sitio.
+=== <h3>Promociones directas:</h3>
+Cuando se patrocina cualquier tipo de categorías ya mencionadas que traen consigo un enlace directo o, mismamente, el nombre para llegar o acceder al sitio.
 Por ejemplo:
 
--¿Me ayudan a llegar a 500 seguidores en Instagram? https://instagram.com/mateolimited
+– ¿Me ayudan a llegar a 500 seguidores en Instagram?: https://instagram.com/mateolimited
 
--Síganme en mi canal de Twitch. Usuario: @ejemplo
+– Síganme en mi canal de Twitch. Usuario: @mateolimited
 
--Ig: @mateolimited
+– Ig: @mateolimited
 
--¿Te puedes unir a mi servidor de Discord? Estoy buscando personas para pasar el rato: https://discord.gg/gatitos
-### Promociones indirectas:
+– ¿Te puedes unir a mi servidor de Discord? Estoy buscando personas para pasar el rato en https://discord.gg/gatitos
+===
+=== <h3>Promociones indirectas:</h3>
 Este tipo de promociones no traen consigo algún enlace o nombre que permita aterrizar en el sitio web. Sin embargo, se puede identificar con simplicidad ya que suelen tener la misma estructura en cuanto al contenido dentro del escrito.
 Por ejemplo:
 
--¡Hola! En mi biografía puedes encontrar mi canal de YouTube y mi Instagram, por si gustas pasarte por allí. 
+– ¡Hola! En mi biografía puedes encontrar mi canal de YouTube y mi Instagram, por si gustas pasarte por allí. 
 
--¿Quién quiere unirse a un grupo de WhatsApp donde hablamos sobre gatitos?
+– ¿Quién quiere unirse a un grupo de WhatsApp donde hablamos sobre gatitos?
+===
 
 ## Más próximamente...
 

@@ -33,6 +33,7 @@ Como de costumbre, de 2 a 3 avisos, según el principio de [Incumplimiento de no
 !!!warning Evitemos las confusiones… 
 El contenido promocionado o _Spam_ se suele confundir con el _Flood_, puedes revisar aquí la [definición](#Cascada-de-mensajes-o-emfloodem).
 !!!
+
 Estas son comunicaciones enviadas que no son solicitadas por su receptor. Siempre buscan patrocinar algo y/o alguien; una red social, ofertas, juegos, etc.
 Hay dos tipos de promociones, directas e indirectas. A continuación, podrás visualizar algunos ejemplos:
 

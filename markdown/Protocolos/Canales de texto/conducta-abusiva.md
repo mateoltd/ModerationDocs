@@ -29,6 +29,32 @@ Se considera como *comportamiento o contucta inadecuada* cuando un usuario se mu
 ### Procedimiento:
 Como de costumbre, de 2 a 3 avisos, según el principio de [Incumplimiento de normativas. ¿Qué hacer?](../Generales/Sanciones/incumplimiento-de-las-normas.md). Una advertencia formal (o `warn`) en dado caso que persista con esta actitud y un silenciamiento si decide hacer caso omiso a las previas indicaciones, advertencias y la anterior sanción del moderador.
 
+## Promociones o <em>Spam</em>
+!!!warning Evitemos las confusiones… 
+El contenido promocionado o _Spam_ se suele confundir con el _Flood_, puedes revisar aquí la [definición](#Cascada-de-mensajes-o-emfloodem).
+!!!
+Estas son comunicaciones enviadas que no son solicitadas por su receptor. Siempre buscan patrocinar algo y/o alguien; una red social, ofertas, juegos, etc.
+Hay dos tipos de promociones, directas e indirectas. A continuación, podrás visualizar algunos ejemplos:
+
+### Promociones directas:
+Cuando patrocinan cualquier tipo de categorías ya mencionadas que traen consigo un enlace directo o, mismamente, el nombre para llegar o acceder al sitio.
+Por ejemplo:
+
+-¿Me ayudan a llegar a 500 seguidores en Instagram? https://instagram.com/mateolimited
+
+-Síganme en mi canal de Twitch. Usuario: @ejemplo
+
+-Ig: @mateolimited
+
+-¿Te puedes unir a mi servidor de Discord? Estoy buscando personas para pasar el rato: https://discord.gg/gatitos
+### Promociones indirectas:
+Este tipo de promociones no traen consigo algún enlace o nombre que permita aterrizar en el sitio web. Sin embargo, se puede identificar con simplicidad ya que suelen tener la misma estructura en cuanto al contenido dentro del escrito.
+Por ejemplo:
+
+-¡Hola! En mi biografía puedes encontrar mi canal de YouTube y mi Instagram, por si gustas pasarte por allí. 
+
+-¿Quién quiere unirse a un grupo de WhatsApp donde hablamos sobre gatitos?
+
 ## Más próximamente...
 
 ---

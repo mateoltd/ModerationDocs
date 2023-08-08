@@ -29,8 +29,7 @@ Se contemplan desde implementación de sanciones hasta tratamiento de ciertas si
 8. [El mundo de las apelaciones.](./Mixtos/apelaciones.md)
 9. [Resolución de conflictos.](./Mixtos/resolucion-de-conflictos.md)
 === Legal
-10. [Privacidad como derecho humano. ¿Qué debo saber? ¿En qué le afecta a los usuarios? ¿A mí?](./Legal/privacidad.md)
-11. [Derechos y obligaciones del usuario.](./Legal/derechos.md)
+10. [Derechos y obligaciones del usuario.](./Legal/derechos.md)
 === 
 
 

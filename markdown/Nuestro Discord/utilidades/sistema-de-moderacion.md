@@ -4,7 +4,7 @@ author:
     avatar: ../../media/avatar/mateo.jpg
 ---
 
-# El sistema
+# El sistema de moderación
 
 Hacemos uso de `@UnbelievaBoat Premium#3539`.
 # ¿Cómo es la distribución de roles?

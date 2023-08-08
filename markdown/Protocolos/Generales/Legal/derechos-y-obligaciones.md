@@ -1,3 +1,9 @@
+---
+author: 
+    name: Mateo R.
+    avatar: ../../../media/avatar/mateo.jpg
+---
+
 # Derechos y obligaciones del usuario
 
 En la era digital actual, el acceso a Internet ha transformado la forma en que interactuamos, compartimos información y nos comunicamos. Sin embargo, junto con las oportunidades que brinda, también surgen responsabilidades y cuestiones legales que los usuarios deben comprender. Este documento aborda los derechos y obligaciones fundamentales de los usuarios como personas en Internet, además de proporcionar información sobre leyes y normativas internacionales relevantes.

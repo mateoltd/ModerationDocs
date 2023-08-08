@@ -1,5 +1,6 @@
 ---
 order: 99
+tags: [discord, reglas]
 ---
 # Reglas Internas para el Equipo
 !!!warning ¡Aviso navegantes!

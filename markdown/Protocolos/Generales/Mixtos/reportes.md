@@ -5,6 +5,7 @@ author:
       avatar: https://ih1.redbubble.net/image.4882611619.7688/st,small,507x507-pad,600x600,f8f8f8.u2.jpg
     - name: Mateo R.
       avatar: ../../../media/avatar/mateo.jpg
+tags: [protocolos, generales, mixtos, solicitudes]
 ---
 <style>
     footer {

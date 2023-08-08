@@ -2,6 +2,7 @@
 author: 
     name: Mateo R.
     avatar: ../../../media/avatar/mateo.jpg
+tags: [protocolos, generales, legal]
 ---
 
 # Derechos y obligaciones del usuario
@@ -71,3 +72,6 @@ El **[Informe del Relator Especial de las Naciones Unidas sobre la promoción y 
 El **[Artículo 15 de la Directiva de Comercio Electrónico 2000/31/CE](https://eur-lex.europa.eu/eli/dir/2000/31/oj)** de la Unión Europea establece que los proveedores de servicios en línea no son responsables de la información almacenada por otros, pero deben actuar prontamente para eliminar o bloquear el acceso a la información ilegal una vez que tengan conocimiento de ella. Esto refuerza la importancia de que las plataformas mantengan pruebas de sanciones para demostrar su cumplimiento con las regulaciones.
 
 Como conclusión, los moderadores tienen bases legales y normativas sólidas para recopilar y almacenar pruebas de sanciones en línea. El **RGDP**, el **Convenio de Budapest**, informes de la **ONU** y la **Directiva de Comercio Electrónico** son ejemplos de documentos que respaldan la importancia de mantener registros para la seguridad, la justicia y el cumplimiento normativo en el entorno digital.
+
+---
+[!badge variant="primary" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)

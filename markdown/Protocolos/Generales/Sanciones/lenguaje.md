@@ -3,6 +3,7 @@ order: 999
 author:
     name: Mateo R.
     avatar: ../../../media/avatar/mateo.jpg
+tags: [protocolos, generales, sanciones]
 ---
 # Uso inadecuado del lenguaje: las barreras
 Todos sabemos que en un idioma tan amplio como el español, se pueden hacer usos muy distintos, movido por el entorno de cada uno de los hablantes, donde la educación y sus bases culturales juegan un papel muy importante.<br>
@@ -30,4 +31,4 @@ Aunque se permita: hay situaciones en las que las personas se exceden y el diál
 <sup>1</sup>bloquear: En este caso hace alusión a suprimir o no permitir. Esto aplica también en viva voz, donde si se pronuncia o menciona un término se ejecuta una sanción o advertencia de manera inmediata.
 
 ---
-[!badge variant="dark" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)
+[!badge variant="primary" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)

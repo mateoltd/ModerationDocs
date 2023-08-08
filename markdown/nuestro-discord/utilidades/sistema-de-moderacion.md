@@ -3,6 +3,7 @@ order: 1
 author: 
     name: Mateo R.
     avatar: ../../media/avatar/mateo.jpg
+tags: [discord, utilidades]
 ---
 
 # El sistema de moderación
@@ -72,3 +73,6 @@ Comando | Habilidad
 ## Aclaraciones:
 \*Esto quiere decir que no se podrá entrar en la resolución de conflictos a nivel interno, únicamente externo.<br>
 \*\*Reunión asidua para la comprobación de la normalidad del equipo.
+
+---
+[!badge variant="primary" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)

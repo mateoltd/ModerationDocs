@@ -2,6 +2,7 @@
 authors:
     - name: Mateo R.
       avatar: ../../media/avatar/mateo.jpg
+tags: [discord, utilidades]
 ---
 <style>
     img {
@@ -42,3 +43,6 @@ El artículo legal aparece contemplado en [este apartado de las reglas del servi
 ==- <h4>Yendo a lo práctico:</h4>
 ![Imagen de un repositorio en su interior](../../media/ej/ej_REPO.png)
 ===
+
+---
+[!badge variant="primary" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)

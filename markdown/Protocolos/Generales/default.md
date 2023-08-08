@@ -3,6 +3,7 @@ order: 1000
 label: Generales
 icon: globe
 expanded: true
+tags: [protocolos, generales]
 ---
 <style>
     footer {

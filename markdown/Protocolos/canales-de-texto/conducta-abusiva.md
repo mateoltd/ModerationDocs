@@ -5,6 +5,7 @@ author:
       avatar: https://media.discordapp.net/attachments/1002477963218010112/1136407120959508621/IMG_5057.jpg
     - name: Mart
       avatar: https://media.discordapp.net/attachments/1112425431321280622/1131707962407256164/53b7b5792bdf98188a616f7c26b9de61.jpg
+tags: [protocolos, texto]
 ---
 # ¿Cuándo es una conducta abusiva?
 Hablemos de los procedimientos que se reflejan una conducta abusiva. Entre ellos podemos encontrar:

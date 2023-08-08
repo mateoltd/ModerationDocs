@@ -5,6 +5,7 @@ author:
       avatar: ../../../media/avatar/mateo.jpg
     - name: Aranda
       avatar: https://cdn.discordapp.com/attachments/1112425431321280622/1136105296247398470/IMG_1164.jpg
+tags: [protocolos, generales, mixtos, solicitudes]
 ---
 # Atender solicitudes o <em>tickets</em>
 El formato de las solicitudes puede variar dependiendo de la plataforma y lo que la administración decida más adecuado para atender las cuestiones de un usuario.

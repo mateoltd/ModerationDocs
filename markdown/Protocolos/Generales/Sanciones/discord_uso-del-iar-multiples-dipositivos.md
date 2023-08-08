@@ -1,5 +1,6 @@
 ---
 visibility: hidden
+tags: [protocolos, generales, sanciones]
 ---
 <style>
     body {

@@ -3,6 +3,7 @@ author:
     name: Mateo R.
     avatar: ../../../media/avatar/mateo.jpg
 order: 997
+tags: [protocolos, generales, mixtos]
 ---
 # Resolución de conflictos: interno y externo
 Resolver conflictos de manera efectiva dentro (y fuera) de un equipo de moderación es esencial para mantener un ambiente saludable y seguro para los usuarios. Aquí están algunas buenas prácticas que pueden ayudar a abordar y resolver conflictos de manera constructiva, las cuales en [nuestro Discord](https://discord.gg/gatitos) aplicamos a nivel administrativo y os pueden ser de gran ayuda:
@@ -21,4 +22,4 @@ Resolver conflictos de manera efectiva dentro (y fuera) de un equipo de moderaci
 
 ---
 _Está siendo conducido un estudio más profundo en relación a este tema: cuando finalice, serán publicados los resultados_.<br>
-[!badge variant="dark" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)
+[!badge variant="primary" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)

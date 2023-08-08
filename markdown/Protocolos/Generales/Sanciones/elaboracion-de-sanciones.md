@@ -3,6 +3,7 @@ order: 1
 author: 
     name: Mateo R.
     avatar: ../../../media/avatar/mateo.jpg
+tags: [protocolos, generales, sanciones]
 ---
 
 # ¿Cómo elaborar una sanción?
@@ -62,6 +63,13 @@ Todo lo que ocurra debes registrarlo para tener constancia de ello, de esta form
 Tenemos una guía en [Nuestro Discord](https://discord.gg/gatitos) sobre [adjuntar casos](../../../nuestro-discord/utilidades/adjuntar-casos.md).
 
 ¡No te olvides! Hay que eliminar cualquier contenido que no sea adecuado o que pueda provocar disturbios, y si este va en contra de los términos del servicio, reportarlo a la plataforma pertinente (p. ej.: en Discord usamos el [reporte vía IAR](./discord_uso-del-iar.md)).
+
+### Canales de voz
+En cuanto al procedimiento, es bastante similar a los que existen para los canales de texto; difieren en algunos puntos que se explicarán de inmediato:
+
+Antes de nada, debemos identificar al usuario (o los usuarios) que esté(n) generando disturbios dentro del canal. El moderador se debe dirigir en todo momento con sumo respeto hacia las personas dentro de este, y, como sucede con normalidad, hay mucho escándalo en estas situaciones, por lo que es crucial pedir que hagan silencio unas cuantas veces para que se le pueda escuchar cómodamente. Si le ignoran, no le escuchan por el ruido o sencillamente no acatan esta orden, el moderador tendrá toda la potestad de silenciar a todo aquel que esté hablando hasta que termine de decir sus avisos a los usuarios previamente identificados que estaban importunando anteriormente. 
+En el caso de que luego de dar dichos avisos a los individuos, continúan con la misma conducta, deberán ser silenciados temporalmente dentro del servidor o grupo. 
+Para que quede registro de ello, se deberá dar una advertencia formal (o _warn_) de tal manera en la cuál se especifique la duración de este silencio y razón.
 
 ==- Entonces... recapitulemos
 1. Somos humanos.

@@ -1,5 +1,6 @@
 ---
 order: 100
+tags: [discord, reglas]
 ---
 # Reglas del servidor
 !!!warning ¡Aviso navegantes!

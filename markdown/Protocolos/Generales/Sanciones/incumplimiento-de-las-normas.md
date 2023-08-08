@@ -5,7 +5,7 @@ authors:
       avatar: ../../../media/avatar/mateo.jpg
     - name: Airi
       avatar: https://cdn.discordapp.com/attachments/1112425431321280622/1131707962642149408/b95eeadc1fb3c923146d1255b25c6f86.jpg
-
+tags: [protocolos, generales, sanciones]
 ---
 # Básico: Incumplimiento de las normas. ¿Qué hacer?
 El incumplimiento de las normas puede surgir en diversas comunidades y plataformas en línea. Es esencial saber cómo gestionarlo adecuadamente para mantener un ambiente seguro y respetuoso para todos los usuarios.

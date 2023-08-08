@@ -3,6 +3,7 @@ order: 1
 author: 
     name: Mateo R.
     avatar: ../../../media/avatar/mateo.jpg
+tags: [protocolos, generales, sanciones]
 ---
 <style>
     body {

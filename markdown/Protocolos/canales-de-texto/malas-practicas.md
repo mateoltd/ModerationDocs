@@ -5,8 +5,9 @@ authors:
       avatar: https://media.discordapp.net/attachments/1002477963218010112/1136407120959508621/IMG_5057.jpg
     - name: Mart
       avatar: https://media.discordapp.net/attachments/1112425431321280622/1131707962407256164/53b7b5792bdf98188a616f7c26b9de61.jpg
+tags: [protocolos, texto]
 ---
-# Mal uso de las funcionalidades
+# Malas prácticas
 
 ## Dentro del mundo de _roleplay_ o juegos de rol
 
@@ -42,3 +43,8 @@ Es importantísimo contar con unas reglas que le proporcionen al moderador la po
 
 <h4>Procedimiento</h4>
 Aplicando los ya mencionados principios en varios puntos del documento, un caso de explotación sistemática es motivo de la pérdida de acceso al servidor permanente, sin posibilidad de apelar o revisar la sanción.
+
+---
+[!badge variant="primary" text="Redacción por Gumi"](https://instagram.com/memukkita) [!badge variant="ghost" text="Consejera de calidad"](#)<br>[!badge variant="secondary" text="Contribución en redacción de Mart"](#) [!badge variant="ghost" text="Moderador"](https://discord.gg/gatitos)
+<br>—<br>
+[!badge variant="danger" text="Control por Mateo R."](#) [!badge variant="ghost" text="CEO del proyecto"](#)

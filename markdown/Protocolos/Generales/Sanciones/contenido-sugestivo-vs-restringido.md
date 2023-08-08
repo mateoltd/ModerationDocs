@@ -5,6 +5,7 @@ authors:
       avatar: https://cdn.discordapp.com/attachments/1112425431321280622/1131707962642149408/b95eeadc1fb3c923146d1255b25c6f86.jpg
     - name: Mateo R.
       avatar: ../../../media/avatar/mateo.jpg
+tags: [protocolos, generales, sanciones]
 ---
 # El contenido sugestivo y el contenido restringido, ¿son lo mismo?
 La cuestión de sancionar el contenido sugestivo o restringido en internet es un tema controvertido y depende en gran medida de las leyes y regulaciones de cada país, así como de las políticas y normativas establecidas por las plataformas y servicios en línea.

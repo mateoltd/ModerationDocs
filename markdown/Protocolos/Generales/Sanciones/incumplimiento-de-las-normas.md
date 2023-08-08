@@ -38,7 +38,7 @@ Disculpa `@usuario`: Te recomendamos mantener un comportamiento más calmado al 
 :::
 ## Paso cinco: Escalada de sanciones
 Si el usuario reconoce su error y muestra disposición para corregir su comportamiento, considera aplicar una advertencia como primer paso. Una advertencia es una oportunidad para que el usuario comprenda las reglas y corrija su conducta.
-Es esencial establecer un sistema de escalada de sanciones para diferentes infracciones. Esto significa que, dependiendo de la gravedad y la frecuencia del incumplimiento, las sanciones pueden aumentar progresivamente. Por ejemplo, puedes echar mano a advertencias, silenciamientos temporales o incluso vetos para quienes no corrijan su comportamiento.
+Es esencial establecer un sistema de escalada de sanciones para diferentes infracciones. Esto significa que, dependiendo de la gravedad y la frecuencia del incumplimiento, las sanciones pueden aumentar progresivamente. Por ejemplo, puedes echar mano a advertencias, silenciamientos temporales o incluso vetos para quienes no corrijan su comportamiento. Como herramienta útil, el documento sobre la [elaboración de sanciones](elaboracion-de-sanciones.md) te ayuda en su fabricación.
 
 ### Ejemplo práctico: 
 En [nuestro Discord](https://discord.gg/gatitos), tendemos a advertir amigablemente entre una y tres veces al usuario antes de llevarlo a una sanción (dependiendo de la gravedad de la infracción). Sin embargo, esto no quiere decir que haya que tener miedo a proporcionar sanciones, puesto a que algunas son leves y no supone ningún coste aplicarlas en ciertos casos para formalizar las llamadas de atención. 

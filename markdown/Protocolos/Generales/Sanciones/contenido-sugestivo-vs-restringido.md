@@ -44,7 +44,9 @@ Por ejemplificar, esto puede incluir contenido que es ilegal, peligroso, abusivo
 Ya revisados los conceptos, podemos percatarnos de una respuesta clara: No, el contenido sugestivo no es lo mismo que el contenido restringido, y cada uno tiene distintas interpretaciones. 
 Mientras que el contenido restringido debe de ser eliminado de manera inmediata puesto a que cualquier interpretación de este tiene una notación dañina para ciertos perfiles<sup>1</sup>, el contenido sugestivo puede resultar más difícil de discernir, ya que dependiendo del nivel contextual y cultural puede ser considerado inapropiado o no.
 
-Nosotros, hemos decidido dejar a merced del moderador la decisión de si eliminarlo o no, mas ambos puntos de vista son válidos y deben de ser tolerados. Lo usual es que se respete siempre y cuando no roce los límites del sentido común, que es un gran indicador en este tipo de situaciones.
+Nosotros, hemos decidido dejar a merced del moderador la decisión de si eliminarlo o no, mas ambos puntos de vista son válidos y deben de ser tolerados. Lo usual es que ambos tipos de contenido sean prohibidos, aunque a veces gracias al sentido común, que es un gran indicador en estos casos, se puede llegar a permitir bajo ciertas circunstancias. 
+
+
 
 <sup>1</sup>: Si usas Discord y te encuentras con [contenido restringido](#contenido-restringido), es recomendable [hacer uso del IAR](./discord_uso-del-iar.md). 
 

@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comandos del bot de moderación</title>
+    <style>
+        .shadow-sm[data-v-e644c288] {
+  box-shadow: 0 .125rem .25rem rgba(0,0,0,.2) !important;
+}
+.shadow-sm[data-v-e644c288] {
+  box-shadow: 0 .125rem .25rem rgba(0,0,0,.2) !important;
+}
+.bg-dark-2, .bg-dark-2-static {
+  background-color: #303339;
+}
+.shadow-sm {
+  box-shadow: 0 .125rem .25rem rgba(0,0,0,.075) !important;
+}
+.rounded {
+  border-radius: .25rem;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+.text-left {
+  text-align: left;
+}
+body, html {
+  color: hsla(0,0%,100%,.9);
+}
+body, code, html {
+  color: hsla(0,0%,100%,.9);
+}
+body, html {
+  font-family: Avenir,Helvetica,Arial,sans-serif;
+  text-align: center;
+}
+body {
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #303339;
+}
+:root {
+  --green: #43b581;
+  --red: #f04747;
+  --blurple: #5865f2;
+  --blurple-light: #7289da;
+  --blue: #00b0f4;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+.no-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+.pointer {
+  cursor: pointer;
+}
+.p-2 {
+  padding: .5rem !important;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+.collapse.expanded[data-v-5acf9ffa] {
+  max-height: 99em;
+  transition: max-height .5s ease-in-out;
+}
+.collapse.expanded[data-v-5acf9ffa] {
+  max-height: 99em;
+  transition: max-height .5s ease-in-out;
+}
+.collapse[data-v-5acf9ffa] {
+  display: block;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .5s cubic-bezier(0,1,0,1);
+}
+.collapse[data-v-5acf9ffa] {
+  display: block;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .5s cubic-bezier(0,1,0,1);
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.ml-1, .mx-1 {
+  margin-left: .25rem !important;
+}
+.mr-1, .mx-1 {
+  margin-right: .25rem !important;
+}
+.mt-1, .my-1 {
+  margin-top: .25rem !important;
+}
+hr {
+  background-color: hsla(0,0%,100%,.9);
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+    border-top-color: currentcolor;
+    border-top-style: none;
+    border-top-width: 0px;
+  border-top: 1px solid rgba(0,0,0,.1);
+}
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+code[data-v-6d15519c] {
+  cursor: pointer;
+  background-color: rgba(0,0,0,.2);
+  border: 1px solid rgba(0,0,0,.3);
+}
+code[data-v-6d15519c] {
+  cursor: pointer;
+  background-color: rgba(0,0,0,.2);
+  border: 1px solid rgba(0,0,0,.3);
+}
+code {
+  padding: .2rem .4rem;
+  font-size: 80%;
+  border-radius: .25rem;
+  background: #3b3d43;
+    background-color: rgb(59, 61, 67);
+  opacity: 1;
+  word-break: break-all;
+}
+body, code, html {
+  color: hsla(0,0%,100%,.9);
+}
+code, kbd, pre, samp {
+  font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+  font-size: 1em;
+}
+
+.description[data-v-6d15519c] p {
+  margin-bottom: 1rem !important;
+}
+.description[data-v-6d15519c] p {
+  margin-bottom: 1rem !important;
+}
+p {
+  margin-bottom: 0;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+.pl-2, .px-2 {
+  padding-left: .5rem !important;
+}
+.pr-2, .px-2 {
+  padding-right: .5rem !important;
+}
+.pb-1, .py-1 {
+  padding-bottom: .25rem !important;
+}
+.pt-1, .py-1 {
+  padding-top: .25rem !important;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+    </style>
+</head>
+<body>
+    <div class="col-sm-9 col-12" data-v-e644c288=""><div class="rounded mx-2 my-1 pb-1" data-v-e644c288=""><div class="px-2 mb-1 w-100" data-v-4230de18="" data-v-e644c288=""><div role="group" class="input-group" data-v-4230de18=""><!----><!---->  <!----> <!----><!----></div></div> <div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="warn">warn</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Warn a member</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="warn.usage">
+                            warn &lt;member&gt; &lt;reason&gt;
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Gives member a warning, usually for breaking the rules.</p></div> <!----> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Kick members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="kick">kick</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Kick a member from the server</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="kick.usage">
+                            kick &lt;member&gt; [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Kick a member from the server.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="kick.example.0">
+                                kick @user
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="kick.example.1">
+                                kick @user Did a bad thing
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Kick members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="voice-kick">voice-kick</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Disconnects a member from a voice channel</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="voice-kick.usage">
+                            voice-kick &lt;member&gt; [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Disconnect a member from a voice channel.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="voice-kick.example.0">
+                                voice-kick @user
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="voice-kick.example.1">
+                                voice-kick @user Did a bad thing
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Move members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="mute">mute</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Mute a member from text channels</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="mute.usage">
+                            mute &lt;member&gt; [duration] [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Mutes a member from the server. This prevents them from sending messages.</p>
+<p>If no duration is given they will be muted until un-muted.<br>
+Duration format examples: <code>1s</code>, <code>1m</code>, <code>1h</code>, <code>1d</code>, <code>1w</code>, <code>1mth</code>, <code>1y</code>.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="mute.example.0">
+                                mute @user
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="mute.example.1">
+                                mute @user 3d
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="mute.example.2">
+                                mute @user 1w Did a bad thing
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Kick members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="soft-ban">soft-ban</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Kick a member from the server and delete their messages</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="soft-ban.usage">
+                            soft-ban &lt;user&gt; [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Kicks a user from the server and deletes a days worth of their messages.<br>
+(Specifically, this bans and then immediately un-bans them)</p></div> <!----> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Kick members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="temp-ban">temp-ban</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Temporarily ban a user from the server</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="temp-ban.usage">
+                            temp-ban &lt;user&gt; &lt;duration&gt; [days delete] [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Bans user temporarily for the duration specified and deletes last x days worth of messages.</p>
+<p>If days is not a number, it's treated as the first word of the reason.<br>
+Minimum 0 days, maximum 7. Defaults to 0.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="temp-ban.example.0">
+                                temp-ban @user 1d
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="temp-ban.example.1">
+                                temp-ban @user 1w Did a bad thing
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="temp-ban.example.2">
+                                temp-ban @user 1mth 1 Did a very bad thing
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Ban members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="ban">ban</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Ban a member from the server</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="ban.usage">
+                            ban &lt;user&gt; [days delete] [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Bans user and deletes last x days worth of messages.</p>
+<p>If days is not a number, it's treated as the first word of the reason.<br>
+Minimum 0 days, maximum 7. Defaults to 0.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="ban.example.0">
+                                ban @user
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="ban.example.1">
+                                ban @user Did a bad thing
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="ban.example.2">
+                                ban @user 1 Did a very bad thing
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Ban members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="un-ban">un-ban</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Unban a user from the server</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="un-ban.usage">
+                            un-ban &lt;user&gt; [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Unbans a user from the server.</p></div> <!----> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Ban members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="un-mute">un-mute</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Unmutes a muted member</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="un-mute.usage">
+                            un-mute &lt;member&gt; [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Unmute a muted member. This allows them to send messages again.</p></div> <!----> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Kick members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="view-case">view-case</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">View information of a punishment</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="view-case.usage">
+                            view-case &lt;case ID&gt;
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>View details of a user's punishment. Don't include the <code>#</code> when specifying the case ID.</p></div> <!----> <!----></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="remove-case">remove-case</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Remove a punishment from a user</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="remove-case.usage">
+                            remove-case &lt;case ID&gt; [reason]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Remove a case ID from a user. If there isn't another active mute or ban case the user will also be un-muted/un-banned.</p></div> <!----> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Kick members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="punishments">punishments</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Shows the history of a users punishments</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="punishments.usage">
+                            punishments &lt;user&gt; [page]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Shows information regarding a user's punishments in the server (warn / mute / kick / soft-ban / temp-ban / ban).</p></div> <!----> <!----></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="reason">reason</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Edit the reason of a punishment</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="reason.usage">
+                            reason &lt;case ID&gt; &lt;new reason&gt;
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Edit the reason for an existing punishment.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="reason.example.0">
+                                reason 25 Spam
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Kick members or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="purge">purge</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Delete messages</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="purge.usage">
+                            purge &lt;limit&gt; [user | -bots | -users | -links | -invites | -embeds | -images | -files | -mentions | -pins | -silent]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Delete many messages quickly. Any pinned messages are not deleted unless the <code>-pins</code> filter is given. <br>
+The maximum limit is 1000, and multiple filters can be used.</p>
+<p>If a filter is provided, messages within the limit will be checked if they match all filters.</p>
+<p>Use the <code>-silent</code> filter to delete the purge message and confirmation.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="purge.example.0">
+                                purge 1000
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="purge.example.1">
+                                purge 100 -images
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="purge.example.2">
+                                purge 10 -bots -embeds
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="purge.example.3">
+                                purge 50 -invites @user
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Manage messages or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="lock-down">lock-down</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Lockdown a channel or the whole server</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="lock-down.usage">
+                            lock-down [channel | server] [duration]
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>If no duration is provided the channel/server will be locked down until the command is used again.</p>
+<p><strong>Channel Lockdown</strong></p>
+<p>The channel will be locked down for anyone that <strong>doesn't</strong> have the <code>Send Messages</code> permissions set to allow in the channel settings.</p>
+<p><strong>Server Lockdown</strong></p>
+<p>This denies the <code>Send Messages</code> permission for the first role that allows <code>Send Messages</code>.</p>
+<p>It will lockdown all channels for all users/roles that <strong>don't</strong> allow the <code>Send Messages</code> permission in the role settings or channel settings.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="lock-down.example.0">
+                                lockdown #general 20s
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="lock-down.example.1">
+                                lockdown #general
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="lock-down.example.2">
+                                lockdown server
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Manage channels or Moderator role
+                    </div></div></div></div></div></div></div><div data-v-e644c288="" class="py-1 px-2"><div data-v-6d15519c="" data-v-e644c288="" class="rounded shadow-sm bg-dark-2-static"><div data-v-5acf9ffa="" data-v-6d15519c=""><div data-v-5acf9ffa=""><div data-v-6d15519c="" data-v-5acf9ffa="" class="pointer p-2 no-select"><!----> <code data-v-6d15519c="" data-v-5acf9ffa="" id="slow-mode">slow-mode</code> <!----> 
+                    - <span data-v-6d15519c="" data-v-5acf9ffa="">Change the slowmode duration of a channel</span></div></div> <div data-v-5acf9ffa="" class="collapse expanded"><div data-v-6d15519c="" data-v-5acf9ffa="" class="pb-3"><hr data-v-6d15519c="" data-v-5acf9ffa="" class="mt-1 mx-1"> <div data-v-6d15519c="" data-v-5acf9ffa="" class="px-2 px-md-4"><div data-v-6d15519c="" data-v-5acf9ffa="" class="mb-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Usage:</div> <code data-v-6d15519c="" data-v-5acf9ffa="" id="slow-mode.usage">
+                            slow-mode [channel] &lt;duration&gt;
+                        </code> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="description"><p>Set or change the slowmode duration (between 0s and 6h).<br>
+Members will be restricted to sending one message per this interval, unless they have <code>Manage Channel</code> or <code>Manage Messages</code> permissions.</p></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title mt-2">Example:</div> <div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="slow-mode.example.0">
+                                slow-mode 0s
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div><div data-v-6d15519c="" data-v-5acf9ffa=""><code data-v-6d15519c="" data-v-5acf9ffa="" id="slow-mode.example.1">
+                                slow-mode #general 3m
+                            </code> <br data-v-6d15519c="" data-v-5acf9ffa=""> <!----></div> <div data-v-6d15519c="" data-v-5acf9ffa="" class="mt-3"><div data-v-6d15519c="" data-v-5acf9ffa="" class="d-block sub-title">Permission:</div>
+                        Manage channels or Moderator role
+                    </div></div></div></div></div></div></div> <!----></div></div>
+
+
+</body></html>

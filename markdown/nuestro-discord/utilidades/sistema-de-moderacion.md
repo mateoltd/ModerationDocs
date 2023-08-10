@@ -8,7 +8,8 @@ tags: [discord, utilidades]
 
 # El sistema de moderación
 
-Hacemos uso de `@UnbelievaBoat Premium#3539`.
+Hacemos uso de `@UnbelievaBoat Premium#3539`.<br>
+[Este es el listado de comandos de moderación](../cmds-bot.html).
 # ¿Cómo es la distribución de roles?
 
 ## Base:

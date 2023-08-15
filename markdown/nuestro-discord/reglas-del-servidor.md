@@ -6,7 +6,7 @@ tags: [discord, reglas]
 !!!warning ¡Aviso navegantes!
 Todo el contenido de este documento es de uso exclusivo para todos los miembros [del servidor](https://discord.gg/gatitos), incluyendo los miembros del equipo de moderación.
 
-Última modificación: [!badge variant="secondary" text="17:55, Día 15 de agosto de 2023, UTC +2"](#)
+Última modificación: [!badge variant="secondary" text="18:20, Día 15 de agosto de 2023, UTC +2"](#)
 !!!
 === <h2>¿Para qué sirven las reglas?</h2>
 A pesar de que Discord ya cuenta con unas normativas establecidas, las cuales [puedes revisar aquí](https://discord.com/guidelines); como comunidad, nos gusta explicar de manera concreta cómo queremos que nuestros usuarios disfruten de los servicios y de El Servidor.
@@ -21,7 +21,7 @@ Nos importa manteneros informados, es por esto que la administración ha redacta
 
 Dicho esto, nos hemos basado en unos cuantos artículos importantes para explicar y enseñar qué hacemos con los datos que recolectamos y cuáles son específicamente.
 
-Nos movemos de acuerdo con la GDPR ([General Data Protection Regulation](https://gdpr-info.eu/)) de la UE*, con matices de la COPPA ([Children's Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)) y teniendo siempre en cuenta lo permitido en los [Términos del Servicio](https://discord.com/terms) y la [Política de Privacidad](https://discord.com/privacy) aplicable en toda la plataforma.
+Nos movemos de acuerdo con la GDPR ([General Data Protection Regulation](https://gdpr-info.eu/)) de la UE, con matices de la COPPA ([Children's Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)) y teniendo siempre en cuenta lo permitido en los [Términos del Servicio](https://discord.com/terms) y la [Política de Privacidad](https://discord.com/privacy) aplicable en toda la plataforma.
 
 ### Grabación de contenido y persistencia en las pruebas para efectuar sanciones.
 La legalidad de grabar como moderadores en plataformas de comunicación como Discord para recopilar pruebas de infracciones y sancionar a los usuarios se fundamenta en diversas leyes y normativas internacionales que tienen en cuenta la protección de datos, la privacidad y el equilibrio entre la libertad de expresión y la seguridad en línea.
@@ -37,7 +37,7 @@ En última instancia, la práctica de grabar como moderadores en Discord y otras
 === <h2>1. Reglas globales</h2>
 Estas normas aplican a todos los servicios de _el servidor_.
 === <h4>1.1  `✅` Aceptación de las reglas</h4>
-Al acceder al servidor, aceptas las condiciones que planteamos como comunidad y confirmas que has leído y estás de acuerdo con las normativas que hemos establecido. Cualquier molestia, duda o corrección se puede hacer mediante una solicitud en nuestros tickets directamente.
+Al acceder a _el servidor_, aceptas las condiciones que planteamos como comunidad y confirmas que has leído y estás de acuerdo con las normativas que hemos establecido. Cualquier molestia, duda o corrección se puede hacer mediante una solicitud en nuestros tickets directamente.
 Aún no estando visibles por interrupciones temporales o errores informáticos, todas estas normativas son igual de válidas para todo el mundo.
 === <h4>1.2  `📖` Respeto a los miembros de la comunidad </h4>
 ¡Somos todos personas!, bueno, algunos gatos… Pero todos merecemos respeto.
@@ -92,4 +92,4 @@ Los procedimientos no necesariamente tienen que obedecer siempre las mismas paut
 
 ---
 Puedes revisar los últimos cambios en el [GitHub](https://github.com/mateoltd/ModerationDocs).
-Haz clic [aquí](https://github.com/mateoltd/ModerationDocs/commit/3abce8438815cf43d1a70310e4d6ef5725310b59#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) para ver la actualización más reciente. 
+Haz clic [aquí](https://github.com/mateoltd/ModerationDocs/commit/3abce8438815cf43d1a70310e4d6ef5725310b59#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) y [aquí](https://github.com/mateoltd/ModerationDocs/commit/cf8b3117dd858406dc1d82988ca62a806b992390#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) para ver la actualización más reciente. 

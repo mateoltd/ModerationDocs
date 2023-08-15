@@ -4,20 +4,20 @@ tags: [discord, reglas]
 ---
 # Reglas del servidor
 !!!warning ¡Aviso navegantes!
-Todo el contenido de este documento es de uso exclusivo para todos los miembros del servidor, incluyendo los miembros del equipo de moderación.
+Todo el contenido de este documento es de uso exclusivo para todos los miembros [del servidor](https://discord.gg/gatitos), incluyendo los miembros del equipo de moderación.
 
-Última modificación: [!badge variant="secondary" text="02:00 A.M., Día 2 de agosto de 2023, UTC +2"](#)
+Última modificación: [!badge variant="secondary" text="17:45, Día 2 de agosto de 2023, UTC +2"](#)
 !!!
 === <h2>¿Para qué sirven las reglas?</h2>
 A pesar de que Discord ya cuenta con unas normativas establecidas, las cuales [puedes revisar aquí](https://discord.com/guidelines); como comunidad, nos gusta explicar de manera concreta cómo queremos que nuestros usuarios disfruten de los servicios y de El Servidor.
 El único fin que tiene el presente texto es ordenar la comunidad y permitir que continúe la armonía que deseamos entre todos los miembros.
 ===
 === <h2>La nueva estructura</h2>
-GatitosWorld (“nosotros”, “el servidor”, “la administración”), hemos decidido modificar la manera en la que se puede tanto leer como interpretar el reglamento para beneficiar los derechos de nuestros usuarios, la claridad en el documento y la potestad de nuestro equipo de moderación.
-Al ser una de las primeras versiones, es probable que nos veamos obligados a hacer ciertos ajustes a medida que vaya pasando el tiempo de los cuales como miembros seréis notificados(as).
+GatitosWorld (“nosotros”, “el servidor”, “la administración”, “la comunidad”), hemos decidido modificar la manera en la que se puede tanto leer como interpretar el reglamento para beneficiar los derechos de nuestros usuarios, la claridad en el documento y la potestad de nuestro equipo de moderación.
+Esta es la `tercera` enmienda de este modelo.
 ===
 === <h2>Derechos y obligaciones</h2>
-Nos importa manteneros informados, es por esto que la administración ha redactado un apartado en el que explicamos cómo tratamos los datos y qué procedimientos podemos ejercer como servidor público dentro de Discord. Es importante tener en cuenta que las leyes aplican de manera distinta dependiendo de lugar donde residas, por ejemplo, en España se encuentra vigente la LOPD ([Ley Orgánica de Protección de Datos](https://protecciondatos-lopd.com/empresas/nueva-ley-proteccion-datos-2018/#:~:text=La%20ley%20org%C3%A1nica%20de%20protecci%C3%B3n%20de%20datos%20establece%20que%20la,sus%20padres%20o%20tutores%20legales)) sumada al RGPD ([Reglamento General de Protección de Datos](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_es#:~:text=El%20Reglamento%20general%20de%20protecci%C3%B3n%20de%20datos%20(RGPD)&text=El%20Reglamento%20es%20una%20medida,en%20el%20mercado%20%C3%BAnico%20digital)) que es válido en todos los países de la Unión Europea.
+Nos importa manteneros informados, es por esto que la administración ha redactado un apartado en el que explicamos cómo tratamos los datos y qué procedimientos podemos ejercer como el servidor público dentro de Discord que somos. Es importante tener en cuenta que las leyes aplican de manera distinta dependiendo de lugar donde residas, por ejemplo, en España se encuentra vigente la LOPD ([Ley Orgánica de Protección de Datos](https://protecciondatos-lopd.com/empresas/nueva-ley-proteccion-datos-2018/#:~:text=La%20ley%20org%C3%A1nica%20de%20protecci%C3%B3n%20de%20datos%20establece%20que%20la,sus%20padres%20o%20tutores%20legales)) sumada al RGPD ([Reglamento General de Protección de Datos](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_es#:~:text=El%20Reglamento%20general%20de%20protecci%C3%B3n%20de%20datos%20(RGPD)&text=El%20Reglamento%20es%20una%20medida,en%20el%20mercado%20%C3%BAnico%20digital)) que es válido en todos los países de la Unión Europea.
 
 Dicho esto, nos hemos basado en unos cuantos artículos importantes para explicar y enseñar qué hacemos con los datos que recolectamos y cuáles son específicamente.
 
@@ -35,9 +35,10 @@ Además, el marco legal de muchos países también respalda la capacidad de los 
 En última instancia, la práctica de grabar como moderadores en Discord y otras plataformas similares para recopilar pruebas de infracciones y sancionar a los usuarios que violan las normas de la comunidad es esencial para mantener un ambiente en línea seguro y acogedor. Siempre es importante que los moderadores operen con responsabilidad y transparencia, asegurándose de cumplir con las leyes y normativas aplicables y respetando los derechos y la privacidad de los usuarios. Al equilibrar la libertad de expresión con la protección de la comunidad, se puede garantizar que estas plataformas continúen siendo espacios virtuales donde las personas pueden interactuar de manera respetuosa y segura, sin temor a la violación de sus derechos o la aparición de conductas inapropiadas.
 ===
 === <h2>1. Reglas globales</h2>
-Estas normas aplican a todos los canales del servidor.
+Estas normas aplican a todos los servicios del servidor.
 === <h4>1.1  `✅` Aceptación de las reglas</h4>
 Al acceder al servidor, aceptas las condiciones que planteamos como comunidad y confirmas que has leído y estás de acuerdo con las normativas que hemos establecido. Cualquier molestia, duda o corrección se puede hacer mediante una solicitud en nuestros tickets directamente.
+Aún no estando visibles por interrupciones temporales o errores informáticos, todas estas normativas son igual de válidas para todo el mundo.
 === <h4>1.2  `📖` Respeto a los miembros de la comunidad </h4>
 ¡Somos todos personas!, bueno, algunos gatos… Pero todos merecemos respeto.
 Por ende: la incitación al odio, los comentarios xenofóbicos, las apologías al uso de terminología que denote cualquier comportamiento el cual aísle a un grupo de personas por cualquier motivo o cualquier clase de conducta que discrimine a una entidad o creencia, están completamente vetadas.
@@ -86,3 +87,7 @@ Abarca desde lanzar gritos, saturar, soplar el micrófono a reproducir canciones
 La decisión final sobre todos los disturbios, alteraciones de la tranquilidad pública o perturbación, es decir, sobre cualquier desorden queda a merced de nuestro equipo de moderación y sus integrantes.
 Los procedimientos no necesariamente tienen que obedecer siempre las mismas pautas y estarán supervisados en todo momento. Si se encuentra cualquier obstáculo o perjuicio en un veredicto, estaremos abiertos a discutirlo mediante una solicitud formal.
 ===
+
+---
+Puedes revisar los últimos cambios en el [GitHub](https://github.com/mateoltd/ModerationDocs).
+Actualización más reciente:

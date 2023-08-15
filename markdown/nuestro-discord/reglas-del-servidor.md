@@ -6,7 +6,7 @@ tags: [discord, reglas]
 !!!warning ¡Aviso navegantes!
 Todo el contenido de este documento es de uso exclusivo para todos los miembros [del servidor](https://discord.gg/gatitos), incluyendo los miembros del equipo de moderación.
 
-Última modificación: [!badge variant="secondary" text="18:20, Día 15 de agosto de 2023, UTC +2"](#)
+Última modificación: [!badge variant="secondary" text="18:25, Día 15 de agosto de 2023, UTC +2"](#)
 !!!
 === <h2>¿Para qué sirven las reglas?</h2>
 A pesar de que Discord ya cuenta con unas normativas establecidas, las cuales [puedes revisar aquí](https://discord.com/guidelines); como comunidad, nos gusta explicar de manera concreta cómo queremos que nuestros usuarios disfruten de los servicios y de El Servidor.
@@ -92,4 +92,4 @@ Los procedimientos no necesariamente tienen que obedecer siempre las mismas paut
 
 ---
 Puedes revisar los últimos cambios en el [GitHub](https://github.com/mateoltd/ModerationDocs).
-Haz clic [aquí](https://github.com/mateoltd/ModerationDocs/commit/3abce8438815cf43d1a70310e4d6ef5725310b59#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) y [aquí](https://github.com/mateoltd/ModerationDocs/commit/cf8b3117dd858406dc1d82988ca62a806b992390#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) para ver la actualización más reciente. 
+Haz clic [aquí](https://github.com/mateoltd/ModerationDocs/commit/3abce8438815cf43d1a70310e4d6ef5725310b59#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795), [aquí](https://github.com/mateoltd/ModerationDocs/commit/cf8b3117dd858406dc1d82988ca62a806b992390#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) y [aquí](https://github.com/mateoltd/ModerationDocs/commit/704339d52522d424a32c09a50b8bf8ed7150eee0#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) para ver la actualización más reciente. 

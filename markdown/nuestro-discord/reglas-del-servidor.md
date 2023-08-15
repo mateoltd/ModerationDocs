@@ -14,7 +14,7 @@ El único fin que tiene el presente texto es ordenar la comunidad y permitir que
 ===
 === <h2>La nueva estructura</h2>
 GatitosWorld (“nosotros”, “el servidor”, “la administración”, “la comunidad”), hemos decidido modificar la manera en la que se puede tanto leer como interpretar el reglamento para beneficiar los derechos de nuestros usuarios, la claridad en el documento y la potestad de nuestro equipo de moderación.
-Esta es la `tercera` enmienda de este modelo.
+Esta es la `tercera-segunda` enmienda de este modelo.
 ===
 === <h2>Derechos y obligaciones</h2>
 Nos importa manteneros informados, es por esto que la administración ha redactado un apartado en el que explicamos cómo tratamos los datos y qué procedimientos podemos ejercer como el servidor público dentro de Discord que somos. Es importante tener en cuenta que las leyes aplican de manera distinta dependiendo de lugar donde residas, por ejemplo, en España se encuentra vigente la LOPD ([Ley Orgánica de Protección de Datos](https://protecciondatos-lopd.com/empresas/nueva-ley-proteccion-datos-2018/#:~:text=La%20ley%20org%C3%A1nica%20de%20protecci%C3%B3n%20de%20datos%20establece%20que%20la,sus%20padres%20o%20tutores%20legales)) sumada al RGPD ([Reglamento General de Protección de Datos](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_es#:~:text=El%20Reglamento%20general%20de%20protecci%C3%B3n%20de%20datos%20(RGPD)&text=El%20Reglamento%20es%20una%20medida,en%20el%20mercado%20%C3%BAnico%20digital)) que es válido en todos los países de la Unión Europea.
@@ -35,14 +35,14 @@ Además, el marco legal de muchos países también respalda la capacidad de los 
 En última instancia, la práctica de grabar como moderadores en Discord y otras plataformas similares para recopilar pruebas de infracciones y sancionar a los usuarios que violan las normas de la comunidad es esencial para mantener un ambiente en línea seguro y acogedor. Siempre es importante que los moderadores operen con responsabilidad y transparencia, asegurándose de cumplir con las leyes y normativas aplicables y respetando los derechos y la privacidad de los usuarios. Al equilibrar la libertad de expresión con la protección de la comunidad, se puede garantizar que estas plataformas continúen siendo espacios virtuales donde las personas pueden interactuar de manera respetuosa y segura, sin temor a la violación de sus derechos o la aparición de conductas inapropiadas.
 ===
 === <h2>1. Reglas globales</h2>
-Estas normas aplican a todos los servicios del servidor.
+Estas normas aplican a todos los servicios de _el servidor_.
 === <h4>1.1  `✅` Aceptación de las reglas</h4>
 Al acceder al servidor, aceptas las condiciones que planteamos como comunidad y confirmas que has leído y estás de acuerdo con las normativas que hemos establecido. Cualquier molestia, duda o corrección se puede hacer mediante una solicitud en nuestros tickets directamente.
 Aún no estando visibles por interrupciones temporales o errores informáticos, todas estas normativas son igual de válidas para todo el mundo.
 === <h4>1.2  `📖` Respeto a los miembros de la comunidad </h4>
 ¡Somos todos personas!, bueno, algunos gatos… Pero todos merecemos respeto.
 Por ende: la incitación al odio, los comentarios xenofóbicos, las apologías al uso de terminología que denote cualquier comportamiento el cual aísle a un grupo de personas por cualquier motivo o cualquier clase de conducta que discrimine a una entidad o creencia, están completamente vetadas.
-=== <h4>1.3 `📱`  Uso correcto de la organización del servidor </h4>
+=== <h4>1.3 `📱`  Uso correcto de la organización de _el servidor_ </h4>
 Recuerda que cada canal tiene una función concreta, la cual debe ser considerada durante su utilización. Es necesario revisar el tópico de cada uno de los lugares a los que te metas para asegurarte de que los estás empleando correctamente.
 === <h4>1.4 `👤` Suplantación de identidad</h4>
 Cero tolerancia ante intentos de hacerse pasar por cualquier persona, figura o colectivo: tanto personajes públicos como individuales desconocidos. Aclaramos que tener el nombre o foto de perfil a modo de broma, por un meme o únicamente por fanatismo está permitido siempre y cuando se mantenga claro y no se pueda desencadenar ninguna duda.
@@ -55,9 +55,11 @@ Cualquier persona que tenga un comportamiento conspiranoico respecto a la admini
 === <h4>1.7 `📝` Términos del Servicio y Directivas de la Comunidad</h4>
 Es obligatorio seguir al pie de la letra todo lo mencionado en estos documentos por el bien de todos. Un incumplimiento de esto puede terminar con tu estancia tanto en Discord como en el servidor. Sé fiel.
 Puedes encontrar los documentos [aquí](https://discord.com/terms) y [aquí](https://discord.com/guidelines), respectivamente.
+=== <h4>1.8 `🛑` Obstrucción a la justicia</h4>
+Cualquier actividad que pueda o que un administrador considere que pueda llegar a ser renuente para una investigación del equipo de moderación, será tomada como un ataque en contra de _el servidor_. 
 ===
 === <h2> 2. Referente a canales de texto
-_Sección destinada a directivas que aplican a los diferentes canales de texto del servidor._
+_Sección destinada a directivas que aplican a los diferentes canales de texto de «el servidor»._
 === <h4>2.1 `☎️` Cadenas de texto, flood y Spam</h4>
 El flood, y las cadenas no se admiten en los canales debido a que interrumpen la experiencia de los usuarios. Estas prácticas pueden resultar molestas y dificultar la conversación en el servidor. Contemplamos y vetamos los siguientes conceptos:
 
@@ -77,7 +79,7 @@ Trata de mencionar al equipo staff solo cuando sea estrictamente necesario.
 Las personas de la junta directiva, equipo administrativo y Youtubers no se pueden mencionar en canales de texto.
 ===
 === <h2>3. Referente a canales de voz</h2>
-_Estas reglas se aplican a los canales de voz del servidor, tanto los canales personalizados como los canales públicos._
+_Estas reglas se aplican a los canales de voz de «el servidor», tanto los canales personalizados como los canales públicos._
 === <h4>3.1 `☁️` Canales de voz Personalizados</h4>
 Evita crearlos con términos inadecuados que infrinjan las reglas de conducta o usen palabros que estén en la lista negra de Discord.
 === <h4>3.2 `📢` Sonidos molestos</h4>

@@ -1,5 +1,5 @@
 ---
-tags: [protocolos, texto, proximamente]
+tags: [protocolos, texto]
 visibility: hidden
 ---
 # Moderación de contenido multimedia

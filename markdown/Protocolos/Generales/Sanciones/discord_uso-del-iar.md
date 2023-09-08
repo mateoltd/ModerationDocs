@@ -5,7 +5,8 @@ author:
     avatar: ../../../media/avatar/mateo.jpg
 tags: [discord, protocolos, generales, sanciones]
 ---
-<style>
+<!-- ADVERTENCIA: esta página se menciona en comunicados/GW2.0 con HREF, de manera que cualquier cambio debe de ser reflejado ahí-->
+<style>    
     body {
         margin: 0 auto;
     }
@@ -14,16 +15,16 @@ tags: [discord, protocolos, generales, sanciones]
     margin-top: 1%; 
     margin-bottom: 1%;
     max-width: 100%;
-    float: left; /* Añade el float para alinear la imagen a la izquierda */
-    margin-right: 10px; /* Espacio entre la imagen y el texto */
+    float: left; 
+    margin-right: 10px; 
     }
 
     .clearfix2 {
-    overflow: hidden; /* Limpiar el float sin necesidad de ::after */
+    overflow: hidden; 
     }
 
     .clearfix2 img {
-    float: none; /* Anula el float para centrar las imágenes */
+    float: none; 
     margin-bottom: 3%
     }
 
@@ -34,8 +35,8 @@ tags: [discord, protocolos, generales, sanciones]
     }
 
     .clearfix img:first-child {
-    margin-right: 10px; /* Espacio entre las imágenes */
-    margin-left: auto; /* Centrar la primera imagen horizontalmente */
+    margin-right: 10px; 
+    margin-left: auto; 
     }
 
     /* Estilo inicial para el contenido de PC en pantallas grandes */

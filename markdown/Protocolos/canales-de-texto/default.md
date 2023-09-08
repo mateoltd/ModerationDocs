@@ -4,7 +4,7 @@ author:
     - name: Mateo R.
       avatar: ../../media/avatar/mateo.jpg
 icon: hash
-expanded: true
+expanded: false
 label: Canales de texto
 tags: [protocolos, texto]
 ---

@@ -48,7 +48,7 @@ Nosotros, hemos decidido dejar a merced del moderador la decisión de si elimina
 
 
 
-<sup>1</sup>: Si usas Discord y te encuentras con [contenido restringido](#contenido-restringido), es recomendable [hacer uso del IAR](./discord_uso-del-iar.md). 
+<sup>1</sup>: Si usas Discord y te encuentras con [contenido restringido](#contenido-restringido), es obligatorio [hacer uso del IAR](./discord_uso-del-iar.md). 
 
 ---
 [!badge variant="primary" text="Redacción por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)<br>[!badge variant="secondary" text="Tb. redacción por Airi"](https://discord.com/users/705256412053241947) [!badge variant="ghost" text="Moderadora del Discord oficial `GatitosWorld`"](https://discord.gg/gatitos)

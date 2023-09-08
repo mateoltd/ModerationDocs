@@ -2,7 +2,7 @@
 icon: unmute
 order: 998
 label: Canales de voz
-expanded: true
+expanded: false
 tags: [protocolos, voz]
 ---
 # Introducción a canales de voz

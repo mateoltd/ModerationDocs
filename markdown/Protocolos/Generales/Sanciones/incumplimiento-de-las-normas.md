@@ -60,7 +60,7 @@ Comunica de manera transparente las acciones de moderación y las razones detrá
 
 Si te toca enfrentarte contra una baja comprensión por parte del afectado o unos satélites del mismo, es importante afrontarlo con calma y paciencia. Cuando se llegue al momento de un círculo repetitivo, es ideal parar la conversación ahí y dejarlo a manos de un administrador.
 ## Paso ocho: Respeta los derechos de los usuarios
-Como personas y como miembros del servidor, al igual que obedecen a una serie de obligaciones, también cuentan con una serie de [derechos](../Legal/derechos.md) que debemos respetar y conocer.
+Como personas y como miembros del servidor, al igual que obedecen a una serie de obligaciones, también cuentan con una serie de [derechos](../Legal/derechos-y-obligaciones.md) que debemos respetar y conocer.
 ## Último paso: Pregunta
 Lo más seguro es que no todos los acontecimientos estén contemplados en ningún documento del mundo, dado a nuestra unicidad. ¡No tengas miedo a hacer preguntas a los demás moderadores! Consulta y contrasta puntos de vista y experiencias, todos tenemos algo nuevo que contribuir, y a veces es decisivo para algunas decisiones.
 

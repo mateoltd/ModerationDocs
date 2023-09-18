@@ -10,7 +10,7 @@ Discord y todos los servicios serán referidos como la «Plataforma».
 
 El término «Equipo de Moderación» abarca a todos los miembros que forman parte del equipo de moderación del servidor de Discord denominado GatitosWorld, al que se accede mediante la invitación discord.gg/gatitos y se identifica con el número único «790289803219566633» en la Plataforma. Estos individuos son designados en función de su rol de «Moderador», identificado como «822611433463611433» en la Plataforma. Además, cualquier persona que haya tenido el rol de «Moderador» en el pasado, a partir de la fecha efectiva de este comunicado, también se considerará parte de este grupo, siempre que existan pruebas irrefutables de su participación pasada o presente, mediante las herramientas proporcionadas por la Plataforma.
 
-Este documento, denominado «Comunicado 01/18 de septiembre de 2023», establece la política de privacidad para la recopilación y el tratamiento de datos relacionados con los candidatos y miembros del Equipo de Moderación en Discord.
+Este documento, denominado «Comunicado del 01/18 de septiembre de 2023», establece la política de privacidad para la recopilación y el tratamiento de datos relacionados con los candidatos y miembros del Equipo de Moderación en Discord.
 
 ## Contenido General
 

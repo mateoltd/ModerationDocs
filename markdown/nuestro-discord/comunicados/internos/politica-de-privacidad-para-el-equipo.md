@@ -1,10 +1,4 @@
----
-author: 
-    name: Mateo R.
-    avatar: ../../../media/avatar/mateo.jpg
-tags: [discord, comunicados, internos]
----
-# 01/18-Sep-2023: Política de Privacidad para el Equipo de Moderación
+# Política de Privacidad para el Equipo de Moderación
 
 Discord y todos los servicios serán referidos como la «Plataforma».
 

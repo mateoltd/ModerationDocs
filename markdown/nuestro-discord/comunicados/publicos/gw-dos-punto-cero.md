@@ -52,6 +52,7 @@ Todo lo listado a continuación son futuros cambios a implementar:
 <br>&nbsp;- Pendiente.</div>
 <div class="rsection negative-sy">- Endurecimiento de las políticas de restricción de contenido: Todo contenido que sea inseguro, resulte inadecuado o sugestivo, se eliminará del servidor. Se proporcionará una advertencia la primera ocasión, antes de ejecutar una sanción de mayor gravedad, a menos que sea contenido explícito, donde se aplicará de manera directa.</div>
 <div class="rsection negative-sy">- El rango @Tutor será eliminado de la jerarquía actual: Cambios hay planeados para esta posición.</div>
+<div class="rsection positive-sy">+ La introducción de las Políticas de Privacidad para el Equipo de Moderación.</div>
 :::
 
 

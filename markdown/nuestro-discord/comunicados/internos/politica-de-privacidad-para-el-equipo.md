@@ -1,3 +1,9 @@
+---
+author: 
+    name: Mateo R.
+    avatar: ../../../media/avatar/mateo.jpg
+tags: [discord, comunicados, internos, legal]
+---
 # Política de Privacidad para el Equipo de Moderación
 
 Discord y todos los servicios serán referidos como la «Plataforma».
@@ -17,7 +23,7 @@ Se recopilarán y tratarán los siguientes tipos de información:
 - Información personal: nombre completo, dirección postal, dirección de correo electrónico y número de teléfono.
 - Información laboral o de voluntariado: cargo actual o anterior, experiencias previas.
 - Información educativa: nivel educativo alcanzado.
-- Información sobre el comportamiento y la actividad en Discord, que incluye, aunque no se limita a ello, mensajes, ideologías, relaciones, conductas y cualquier dato accesible dentro de los servidores pertinentes, a saber, el servidor principal de [GatitosWorld](https://discord.gg/gatitos), el servidor del [Equipo de Moderación](#)—con ID `892748318587879454`—, el servidor de [Gestión de recursos humanos](https://discord.gg/CSQaRXn4Pm).
+- Información sobre el comportamiento y la actividad en Discord, que incluye, aunque no se limita a ello, mensajes, ideologías, relaciones, conductas y cualquier dato accesible dentro de los servidores pertinentes, a saber, el servidor principal de [GatitosWorld](https://discord.gg/gatitos), el servidor del Equipo de Moderación—con ID `892748318587879454`—, el servidor de [Gestión de recursos humanos](https://discord.gg/CSQaRXn4Pm).
 
 Todos los datos recopilados se considerarán información de dominio público, teniendo en cuenta su origen y su finalidad, lo que nos permite procesarlos sin necesidad de un acuerdo contractual o vínculo legal.
 

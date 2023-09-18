@@ -38,3 +38,4 @@ Esta política entrará en vigor el 18 de septiembre de 2023, a efecto inmediato
 ## ¿Qué puedo hacer yo?
 
 No es necesario que aceptes ningún término. Si no estás de acuerdo con esta política, tendrás la opción de renunciar a tu posición en el Equipo de Moderación.
+El proceso de recopilación es automático y no requiere ninguna participación por parte de las personas analizadas.

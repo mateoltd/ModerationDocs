@@ -19,4 +19,4 @@ Nos hemos centrado en recopilar todos los conocimientos y cambios que hemos ido 
 ¿Quieres contribuir o algo te parece que puede mejorar? Siempre puedes abrir una solitud en nuestro [canal de ayuda](https://discord.com/channels/790289803219566633/822611489370144808/979482036265947156) y comentarnos tu punto de vista. Nuestro equipo estará encantado de atenderte y debatir sobre el sistema actual.
 
 ---
-**Tiempo estimado de leída de todo el documento**: ~25 minutos.
+**Tiempo estimado de leída de todo el documento**: ~27 minutos.

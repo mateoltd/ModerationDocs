@@ -39,3 +39,8 @@ Esta política entrará en vigor el 18 de septiembre de 2023, a efecto inmediato
 
 No es necesario que aceptes ningún término. Si no estás de acuerdo con esta política, tendrás la opción de renunciar a tu posición en el Equipo de Moderación.
 El proceso de recopilación es automático y no requiere ninguna participación por parte de las personas analizadas.
+
+# No entiendo nada, ¿explicación para bobos?
+Se trata de un documento informativo que habla acerca del manejo de los datos públicos que se pueden extraer de los integrantes del Equipo de Moderación, no tenéis que aceptar ni hacer absolutamente nada de manera explícita. Toda la recopilación ocurrirá automáticamente por parte de la administración cuando sea necesario.
+---
+[!badge variant="dark" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)

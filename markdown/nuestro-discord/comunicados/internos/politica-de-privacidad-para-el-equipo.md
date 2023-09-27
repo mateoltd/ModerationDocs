@@ -42,5 +42,6 @@ El proceso de recopilación es automático y no requiere ninguna participación 
 
 # No entiendo nada, ¿explicación para bobos?
 Se trata de un documento informativo que habla acerca del manejo de los datos públicos que se pueden extraer de los integrantes del Equipo de Moderación, no tenéis que aceptar ni hacer absolutamente nada de manera explícita. Toda la recopilación ocurrirá automáticamente por parte de la administración cuando sea necesario.
+
 ---
 [!badge variant="dark" text="Contribución por Mateo R."](https://mateo.ltd/) [!badge variant="ghost" text="CEO del proyecto"](https://mateo.ltd/)

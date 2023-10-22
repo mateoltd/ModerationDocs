@@ -6,6 +6,7 @@ tags: [discord, reglas]
 !!!warning ¡Aviso navegantes!
 Todo el contenido afecta a la totalidad de equipo, desde [!badge icon="../media/moderador.webp" variant="danger" text="@Moderador" size="l"] hasta [!badge icon="../media/direccion.webp" variant="warning" text="@Dirección" size="l"].
 !!!
+Última modificación: [!badge variant="secondary" text="21:59, Día 22 de octubre de 2023, UTC +2"](#) <br>
 === <h2>1. Reuniones asiduas</h2>
 Se llevarán a cabo reuniones cada dos semanas, las cuales serán presididas por un individuo con el cargo de "Tutor". Dicha persona se encargará de recopilar los temas más relevantes de las dos semanas anteriores, incluyendo problemas, novedades, curiosidades, comentarios, entre otros. Durante estas reuniones se tratarán entre tres y cinco temas, con una duración de entre treinta minutos y una hora.
 === <h2>2. Autoridad de gestión</h2>
@@ -32,6 +33,8 @@ Queda estrictamente prohibido modificar los canales de voz ya creados por cualqu
 Se creará un rol especial para reconocer y elogiar a aquellas personas que hayan realizado importantes contribuciones a la comunidad. Este rol se otorgará a aquellos individuos que, por circunstancias ajenas a su propia voluntad, deban retirarse del servicio.
 === <h2>8. Conspiración</h2>
 Cualquier persona que tenga un comportamiento conspiranoico respecto a la administración o dirección, organizando un grupo de personas en contra de otro con el objetivo de especular o reportar una serie de objetos, será expulsada permanentemente del equipo con posibles repercusiones en el servidor, directamente.
+=== <h2>9. Promociones</h2>
+Toda promoción debe de ser aprobada por un número mínimo de tres personas superiores al promocionante. Esta condición aplica para todos los cargos.
 === <h2>Adición</h2>
 Se reserva el derecho de realizar modificaciones y agregar nuevas disposiciones en el futuro. Todas las normativas establecidas están sujetas a posibles cambios y actualizaciones, con el objetivo de mejorar el funcionamiento y la convivencia en la comunidad. Los miembros deben estar atentos a las actualizaciones y acatar las nuevas disposiciones que se implementen.
 ===

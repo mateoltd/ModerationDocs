@@ -90,4 +90,4 @@ Los procedimientos no necesariamente tienen que obedecer siempre las mismas paut
 
 ---
 Puedes revisar los últimos cambios en el [GitHub](https://github.com/mateoltd/ModerationDocs).
-Haz clic [aquí](https://github.com/mateoltd/ModerationDocs/commit/3abce8438815cf43d1a70310e4d6ef5725310b59#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795), [aquí](https://github.com/mateoltd/ModerationDocs/commit/cf8b3117dd858406dc1d82988ca62a806b992390#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) y [aquí](https://github.com/mateoltd/ModerationDocs/commit/704339d52522d424a32c09a50b8bf8ed7150eee0#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) para ver la actualización más reciente. 
+Haz clic [aquí](https://github.com/mateoltd/ModerationDocs/commit/f279b4731ae0c10950c281e155fd73621fccf9da#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) para ver la actualización más reciente. 

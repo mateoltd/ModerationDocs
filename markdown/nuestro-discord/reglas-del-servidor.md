@@ -6,7 +6,7 @@ tags: [discord, reglas]
 !!!warning ¡Aviso navegantes!
 Todo el contenido de este documento es de uso exclusivo para todos los miembros [del servidor](https://discord.gg/gatitos), incluyendo los miembros del equipo de moderación.
 
-Última modificación: [!badge variant="secondary" text="18:25, Día 15 de agosto de 2023, UTC +2"](#)
+Última modificación: [!badge variant="secondary" text="00:20, Día 30 de noviembre de 2023, UTC +1"](#)
 !!!
 === <h2>¿Para qué sirven las reglas?</h2>
 A pesar de que Discord ya cuenta con unas normativas establecidas, las cuales [puedes revisar aquí](https://discord.com/guidelines); como comunidad, nos gusta explicar de manera concreta cómo queremos que nuestros usuarios disfruten de los servicios y de El Servidor.

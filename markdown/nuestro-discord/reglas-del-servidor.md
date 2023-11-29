@@ -61,22 +61,20 @@ Cualquier actividad que pueda o que un administrador considere que pueda llegar 
 === <h2> 2. Referente a canales de texto
 _Sección destinada a directivas que aplican a los diferentes canales de texto de «el servidor»._
 === <h4>2.1 `☎️` Cadenas de texto, flood y Spam</h4>
-El flood, y las cadenas no se admiten en los canales debido a que interrumpen la experiencia de los usuarios. Estas prácticas pueden resultar molestas y dificultar la conversación en el servidor. Contemplamos y vetamos los siguientes conceptos:
+El flood, y las cadenas, entre otras prácticas disruptivas no se admiten en los canales debido a que interrumpen la experiencia de los usuarios. Esto puede resultar molesto y dificultar la conversación en el servidor. Contemplamos y vetamos, aunque no limitados, a los siguientes conceptos:
 
 **Cadenas:** ASCII art, mensajes con caracteres innecesarios o saturados, encadenamiento de mensajes relacionados entre sí sin un propósito acorde con la temática del chat.
 
 **Flood:** término que se deriva de la palabra inglesa «cascada», enviar mensajes en grandes cantidades o de forma repetitiva. Esto significa que enviar un mensaje o una serie de mensajes similares varias veces seguidas se considerará como flood.
 
 **Spam:** promoción de un servidor, red social, grupo, etc.
-=== <h4>2.2  `📖` Respeto a los miembros de la comunidad </h4>
-¡Somos todos personas!, bueno, algunos gatos… Pero todos merecemos respeto.
-Por ende: la incitación al odio, los comentarios xenofóbicos, las apologías al uso de terminología que denote cualquier comportamiento el cual aísle a un grupo de personas por cualquier motivo o cualquier clase de conducta que discrimine a una entidad o creencia, están completamente vetadas.
-=== <h4>2.3 `📸` Difusión de imágenes y multimedia </h4>
+=== <h4>2.2 `📸` Difusión de imágenes y multimedia </h4>
 ➔ Multimedia pornográfica de cualquier clase y formato.
 ➔ Contenido de actos de violencia armada o robos con violencia, además de contenido gore o sangriento.
-=== <h4>2.4 `🔔` Menciones innecesarias</h4>
-Trata de mencionar al equipo staff solo cuando sea estrictamente necesario.
-Las personas de la junta directiva, equipo administrativo y Youtubers no se pueden mencionar en canales de texto.
+➔ Cualquier representación o reproducción de contenido sensible, dentro de los cuales se destacan el [contenido sugestivo](../Protocolos/Generales/Sanciones/contenido-sugestivo-vs-restringido.md) y el [contenido restringido](../Protocolos/Generales/Sanciones/contenido-sugestivo-vs-restringido.md)
+=== <h4>2.3 `🔔` Menciones innecesarias</h4>
+Trata de mencionar al equipo de moderación y a las figuras públicas solo cuando sea estrictamente necesario.
+Las personas de la junta directiva, equipo administrativo y los _youtubers_ no se pueden mencionar en canales de texto.
 ===
 === <h2>3. Referente a canales de voz</h2>
 _Estas reglas se aplican a los canales de voz de «el servidor», tanto los canales personalizados como los canales públicos._
@@ -85,7 +83,7 @@ Evita crearlos con términos inadecuados que infrinjan las reglas de conducta o 
 === <h4>3.2 `📢` Sonidos molestos</h4>
 Abarca desde lanzar gritos, saturar, soplar el micrófono a reproducir canciones o efectos de sonido disruptivos, gemir y/o hablar con voces incómodas para los presentes.
 === 
-=== <h2>Datos extras</h2>
+=== <h2>Sección extra</h2>
 La decisión final sobre todos los disturbios, alteraciones de la tranquilidad pública o perturbación, es decir, sobre cualquier desorden queda a merced de nuestro equipo de moderación y sus integrantes.
 Los procedimientos no necesariamente tienen que obedecer siempre las mismas pautas y estarán supervisados en todo momento. Si se encuentra cualquier obstáculo o perjuicio en un veredicto, estaremos abiertos a discutirlo mediante una solicitud formal.
 ===

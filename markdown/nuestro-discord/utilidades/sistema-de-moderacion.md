@@ -37,6 +37,7 @@ Cuando hay una nueva tanda de postulaciones, los ocupantes de este puesto serán
 
 Comando | Habilidad
 --- | ---
+`ban`| Vetar el acceso a alguien de forma permanente del servidor.
 `reason` | Actualizar la razón de una sanción.
 `soft-ban` | Esencialmente sirve para expulsar a un usuario y eliminar todos sus mensajes.
 `temp-ban` | Vetar a un usuario de modo temporal.
@@ -60,8 +61,6 @@ En la mayoría de casos, la reconfiguración y el diseño será supervisado y as
 
 Comando | Habilidad
 --- | ---
-`ban`| Vetar el acceso a alguien de forma permanente del servidor.
-`un-ban` | Retirar una sanción aplicada tipo *ban*
 `slowmode` | Modificar el tiempo de modo pausado.
 ### Coordinación
 `➜` [!badge icon="../../media/coordinador.svg" variant="primary" text="@Coordinación" size="l"](#) <br>

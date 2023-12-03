@@ -1,6 +1,8 @@
-La lista a continuación es la organización que se ha implementado en esta tanda, en la cuál los **Mentores** estarán a cargo de un grupo de aprendices y los tutearán y guiarán durante su semana de prueba.
+# Registro de tandas
+La lista a continuación es la organización que se ha implementado en esta tanda, en la cuál los [!badge icon="../../../media/supervisor.webp" variant="primary" text="@Mentor" size="l"](#) estarán a cargo de un grupo de aprendices y los tutearán y guiarán durante su semana de prueba.
 
-
+==- 03/12/2023
+> Asignaciones de la tanda del 03/12/2023
 ## @biupu
 
 - @ateneap
@@ -9,7 +11,7 @@ La lista a continuación es la organización que se ha implementado en esta tand
 - @Useless🐈*.✧#3714
 
 
-## **@sweetemelin**
+## @sweetemelin
 
 - @kyle_jozu
 - @t4doki
@@ -32,7 +34,7 @@ La lista a continuación es la organización que se ha implementado en esta tand
 - @muertoenvida_grimes
 
 
-## **@.flatek**
+## @.flatek
 
 - @atrezall
 - @frnk.
@@ -40,7 +42,7 @@ La lista a continuación es la organización que se ha implementado en esta tand
 - @yato.wtf
 
 
-## **@gnjx**
+## @gnjx
 
 - @leito360
 - @m4ruxs1
@@ -48,7 +50,7 @@ La lista a continuación es la organización que se ha implementado en esta tand
 - @viepaix
 
 
-## **@krist.b**
+## @krist.b
 
 - @gloriasas
 - @sisitaz
@@ -56,7 +58,7 @@ La lista a continuación es la organización que se ha implementado en esta tand
 - @.chooco
 
 
-## **@sophiavzk**
+## @sophiavzk
 
 - @uyitn
 - @ariisww
@@ -64,7 +66,7 @@ La lista a continuación es la organización que se ha implementado en esta tand
 - @automnee
 
 
-## **@staroff.**
+## @staroff.
 
 - @belindaargames
 - @ethancf
@@ -72,11 +74,10 @@ La lista a continuación es la organización que se ha implementado en esta tand
 - @manguitoln
 
 
-## **@shiraaaaa** 
+## @shiraaaaa 
 - @lansgt
 - @solecito.
 - @weshinterls
 - @heixus
 
-
-> 3 - 12 - 2023
+===

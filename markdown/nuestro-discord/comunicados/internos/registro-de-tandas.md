@@ -79,5 +79,4 @@ La lista a continuación es la organización que se ha implementado en esta tand
 - @solecito.
 - @weshinterls
 - @heixus
-
 ===

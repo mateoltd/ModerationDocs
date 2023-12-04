@@ -38,13 +38,13 @@ La lista a continuación es la organización que se ha implementado en esta tand
 
 - @atrezall
 - @frnk.
-- @naoxq.
+- @leito360
 - @yato.wtf
 
 
 ## @gnjx
 
-- @leito360
+- @naoxq.
 - @m4ruxs1
 - @suntyess
 - @viepaix

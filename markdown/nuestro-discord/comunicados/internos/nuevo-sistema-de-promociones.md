@@ -5,7 +5,7 @@ author:
 tags: [discord, comunicados, internos]
 visibility: hidden
 ---
-!!!info
+!!!warning
 Archivado. La persona encargada fue vetada del servidor.
 !!!
 # Aplicación del SISAM

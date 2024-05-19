@@ -3,9 +3,10 @@ author:
     name: Mateo R.
     avatar: ../../../media/avatar/mateo.jpg
 tags: [discord, comunicados, internos]
+visibility: hidden
 ---
 !!!info
-Un nuevo protocolo de aplicación será liberado terminada la tanda de postulaciones activa del 18 de noviembre de 2023.
+Archivado. La persona encargada fue vetada del servidor.
 !!!
 # Aplicación del SISAM
 ==- Nota

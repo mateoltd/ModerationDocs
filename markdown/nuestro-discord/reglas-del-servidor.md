@@ -6,15 +6,46 @@ tags: [discord, reglas]
 !!!warning ¡Aviso navegantes!
 Todo el contenido de este documento es de uso exclusivo para todos los miembros [del servidor](https://discord.gg/gatitos), incluyendo los miembros del equipo de moderación.
 
-Última modificación: [!badge variant="secondary" text="00:20, Día 30 de noviembre de 2023, UTC +1"](#)
+Última modificación: [!badge variant="secondary" text="10:45, Día 19 de mayo de 2024, UTC +2"](#)
 !!!
+
+==- <h2>Resumen</h2>
+Este resumen no suple las normativas establecidas, pero sirve a modo orientativo.
+### ¿Para qué sirven las reglas?
+Las reglas de la comunidad en Discord buscan mantener el orden y la armonía, permitiendo que todos los usuarios disfruten del servidor de manera respetuosa y segura.
+### La nueva estructura
+GatitosWorld ha actualizado su reglamento para mejorar la claridad y proteger los derechos de los usuarios, facilitando la labor del equipo de moderación. Esta es la cuarta enmienda.
+### Derechos y obligaciones
+La administración informa sobre el tratamiento de datos y procedimientos legales, siguiendo leyes como el RGPD y COPPA para proteger la privacidad y seguridad de los usuarios, especialmente los menores.
+### Reglas globales
+#### Aceptación de las reglas
+Al acceder al servidor, aceptas las normativas establecidas.
+#### Respeto a los miembros
+Se prohíbe cualquier forma de discriminación o incitación al odio.
+#### Uso correcto del servidor
+Respeta la función específica de cada canal.
+#### Suplantación de identidad
+Prohibido hacerse pasar por otros. Se permite el humor sin causar confusión.
+#### Temas controvertidos
+Evita discutir temas sensibles públicamente; mejor en entornos controlados.
+### Canales de texto y voz
+#### Textos
+Prohibido el spam, flood y contenido inapropiado.
+#### Voz
+Evita sonidos molestos y nombres inapropiados en canales personalizados.
+### Sección extra
+Las decisiones sobre desórdenes las toma el equipo de moderación, que puede ajustar procedimientos según sea necesario.
+==-
+
+<hr>
+
 === <h2>¿Para qué sirven las reglas?</h2>
 A pesar de que Discord ya cuenta con unas normativas establecidas, las cuales [puedes revisar aquí](https://discord.com/guidelines); como comunidad, nos gusta explicar de manera concreta cómo queremos que nuestros usuarios disfruten de los servicios y de El Servidor.
 El único fin que tiene el presente texto es ordenar la comunidad y permitir que continúe la armonía que deseamos entre todos los miembros.
 ===
 === <h2>La nueva estructura</h2>
 GatitosWorld (“nosotros”, “el servidor”, “la administración”, “la comunidad”), hemos decidido modificar la manera en la que se puede tanto leer como interpretar el reglamento para beneficiar los derechos de nuestros usuarios, la claridad en el documento y la potestad de nuestro equipo de moderación.
-Esta es la `tercera-segunda` enmienda de este modelo.
+Esta es la `cuarta` enmienda de este modelo.
 ===
 === <h2>Derechos y obligaciones</h2>
 Nos importa manteneros informados, es por esto que la administración ha redactado un apartado en el que explicamos cómo tratamos los datos y qué procedimientos podemos ejercer como el servidor público dentro de Discord que somos. Es importante tener en cuenta que las leyes aplican de manera distinta dependiendo de lugar donde residas, por ejemplo, en España se encuentra vigente la LOPD ([Ley Orgánica de Protección de Datos](https://protecciondatos-lopd.com/empresas/nueva-ley-proteccion-datos-2018/#:~:text=La%20ley%20org%C3%A1nica%20de%20protecci%C3%B3n%20de%20datos%20establece%20que%20la,sus%20padres%20o%20tutores%20legales)) sumada al RGPD ([Reglamento General de Protección de Datos](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_es#:~:text=El%20Reglamento%20general%20de%20protecci%C3%B3n%20de%20datos%20(RGPD)&text=El%20Reglamento%20es%20una%20medida,en%20el%20mercado%20%C3%BAnico%20digital)) que es válido en todos los países de la Unión Europea.
@@ -55,6 +86,16 @@ Cualquier persona que tenga un comportamiento conspiranoico respecto a la admini
 === <h4>1.7 `📝` Términos del Servicio y Directivas de la Comunidad</h4>
 Es obligatorio seguir al pie de la letra todo lo mencionado en estos documentos por el bien de todos. Un incumplimiento de esto puede terminar con tu estancia tanto en Discord como en el servidor. Sé fiel.
 Puedes encontrar los documentos [aquí](https://discord.com/terms) y [aquí](https://discord.com/guidelines), respectivamente.
+
+Esto incluye la prohibición de (pero no se limita a):
+- Acoso\*,
+- amenazas\*,
+- difusión de contenido para edades restringidas,
+- difusión de contenido promocional\*,
+- incentivar a otros usuarios a infringir cualquiera de las normativas establecidas,
+- conspiración\*,
+- entre todas las demás pautas mencionadas en estos acuerdos legales.<br>
+\*: incluido en Mensajes Directos (MD).
 === <h4>1.8 `🛑` Obstrucción a la justicia</h4>
 Cualquier actividad que pueda o que un administrador considere que pueda llegar a ser renuente para una investigación del equipo de moderación, será tomada como un ataque en contra de _el servidor_. 
 ===
@@ -90,4 +131,3 @@ Los procedimientos no necesariamente tienen que obedecer siempre las mismas paut
 
 ---
 Puedes revisar los últimos cambios en el [GitHub](https://github.com/mateoltd/ModerationDocs).
-Haz clic [aquí](https://github.com/mateoltd/ModerationDocs/commit/f279b4731ae0c10950c281e155fd73621fccf9da#diff-5d3c513bfdb081ce40f85d7a21df4bf48436bf7511471f5ed65635d016f94795) para ver la actualización más reciente. 

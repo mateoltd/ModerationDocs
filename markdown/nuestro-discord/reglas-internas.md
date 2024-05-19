@@ -6,9 +6,9 @@ tags: [discord, reglas]
 !!!warning ¡Aviso navegantes!
 Todo el contenido afecta a la totalidad de equipo, desde [!badge icon="../media/moderador.webp" variant="danger" text="@Moderador" size="l"] hasta [!badge icon="../media/direccion.webp" variant="warning" text="@Dirección" size="l"].
 !!!
-Última modificación: [!badge variant="secondary" text="21:59, Día 22 de octubre de 2023, UTC +2"](#) <br>
+Última modificación: [!badge variant="secondary" text="10:39, Día 19 de mayo de 2024, UTC +2"](#) <br>
 === <h2>1. Reuniones asiduas</h2>
-Se llevarán a cabo reuniones cada dos semanas, las cuales serán presididas por un individuo con el cargo de "Tutor". Dicha persona se encargará de recopilar los temas más relevantes de las dos semanas anteriores, incluyendo problemas, novedades, curiosidades, comentarios, entre otros. Durante estas reuniones se tratarán entre tres y cinco temas, con una duración de entre treinta minutos y una hora.
+Se llevarán a cabo reuniones cada cierto tiempo, las cuales serán presididas por un individuo con el cargo de «Supervisor». Dicha persona se encargará de recopilar los temas más relevantes de las dos semanas anteriores, incluyendo problemas, novedades, curiosidades, comentarios, entre otros. Durante estas reuniones se tratarán entre tres y cinco temas, con una duración de entre treinta minutos y una hora.
 === <h2>2. Autoridad de gestión</h2>
 La dirección tendrá la autoridad para tomar decisiones en todos los asuntos de su competencia, a excepción de aquellos que les afecten directamente. En tales casos, las decisiones serán ejecutadas por los fundadores.
 === <h2>3. Creación de roles</h2>
@@ -32,7 +32,9 @@ Queda estrictamente prohibido modificar los canales de voz ya creados por cualqu
 === <h2>7. Legado de equipo</h2>
 Se creará un rol especial para reconocer y elogiar a aquellas personas que hayan realizado importantes contribuciones a la comunidad. Este rol se otorgará a aquellos individuos que, por circunstancias ajenas a su propia voluntad, deban retirarse del servicio.
 === <h2>8. Conspiración</h2>
-Cualquier persona que tenga un comportamiento conspiranoico respecto a la administración o dirección, organizando un grupo de personas en contra de otro con el objetivo de especular o reportar una serie de objetos, será expulsada permanentemente del equipo con posibles repercusiones en el servidor, directamente.
+Cualquier persona que tenga un comportamiento conspiranoico respecto a la administración, dirección, o servidor, organizando un grupo de personas en contra de otro con el objetivo de especular o reportar una serie de objetos, será expulsada permanentemente del equipo con posibles repercusiones en el servidor, directamente.
+
+Recomendamos no relacionarse con personas con historial problemático dentro del servidor. El conocimiento de tu proximidad con un grupo de esta índola pondrá en tela de juicio tus acciones a la hora de sancionar y responder a las situaciones a las que nos enfrentamos en la comunidad.
 === <h2>9. Promociones</h2>
 Toda promoción debe de ser aprobada por un número mínimo de tres personas superiores al promocionante. Esta condición aplica para todos los cargos.
 === <h2>Adición</h2>

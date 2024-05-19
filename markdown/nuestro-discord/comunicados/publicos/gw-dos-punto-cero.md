@@ -3,6 +3,7 @@ author:
     name: Mateo R.
     avatar: ../../../media/avatar/mateo.jpg
 tags: [discord, comunicados, publicos]
+hidden: true
 ---
 <style>
 /* Estilos para la caja de código */

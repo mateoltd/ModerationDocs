@@ -44,8 +44,8 @@ Comando | Habilidad
 `un-mute` | Retirar una sanción aplicada tipo *mute*
 
 ## Administración: 
-### Tutelar
-`➜` [!badge icon="../../media/tutor.webp" variant="warning" text="@Tutelar" size="l"](#) <br>
+### Supervisión
+`➜` [!badge icon="../../media/tutor.webp" variant="warning" text="@Supervisor" size="l"](#) <br>
 Es el motor y registro del equipo, durante determinados periodos, se les eximirá del desempeño de las funciones base, y se centrarán en funcionar como un engranaje durante las tandas de postulaciones, llevando al milímetro el comportamiento y trabajo de todos los nuevos, preocupándose por su rendimiento y ayudándoles a sacar lo mejor de sí mismos.<br>
 Las reuniones de control** serán gestionadas por esta posición.
 
@@ -54,7 +54,7 @@ Comando | Habilidad
 `un-ban` | Retirar una sanción aplicada tipo *ban*
 `remove-case` | Elimina un caso. 
 ### Gerencia
-`➜` [!badge icon="../../media/admin.webp" variant="light" text="@Gerencia" size="l"](#) <br>
+`➜` [!badge icon="../../media/admin.webp" variant="light" text="@Administrador" size="l"](#) <br>
 La responsabilidad de este cargo es alta. Se trata de la toma de decisiones a nivel interno en la mayoría de los casos, incluyendo el trabajo base de moderación.<br>
 Es un rol de asistencia, esto quiere decir que todo tipo de resolución de conflictos debe pasar por aquí antes de escalar, a menos que el problema sea enteramente a nivel administrativo.<br>
 En la mayoría de casos, la reconfiguración y el diseño será supervisado y asitido en este nivel, siendo un papel relevante. 
@@ -62,22 +62,9 @@ En la mayoría de casos, la reconfiguración y el diseño será supervisado y as
 Comando | Habilidad
 --- | ---
 `slowmode` | Modificar el tiempo de modo pausado.
-### Coordinación
-`➜` [!badge icon="../../media/coordinador.svg" variant="primary" text="@Coordinación" size="l"](#) <br>
-Esta postura representa los Asuntos Internos del servidor. Su función principal es mantener una supervisión constante del flujo de información y las redes de datos que se intercambian en la comunidad y/o conciernen al Equipo de Moderación.<br>
-El análisis de las brechas de seguridad o información será recogido por este rango. Cualquier decisión final puede tener efecto a todos sus cargos inferiores, con aprobación de un Director. Dirige la rama privada de Inteligencia.
-
-!!!warning
-Un coordinador debe de subir a _Mentor_ o _Gerencia_ si desea los permisos correspondientes, mas puede tomar decisiones sobre estos si su competencia se lo permite.
-!!!
-
-Comando | Habilidad
---- | ---
-`reason` | Actualizar la razón de una sanción.
-`remove-case` | Elimina un caso. 
 
 ### Dirección
-`➜` [!badge icon="../../media/direccion.webp" variant="contrast" text="@Dirección" size="l"](#)  <br>
+`➜` [!badge icon="../../media/direccion.webp" variant="contrast" text="@lead" size="l"](#)  <br>
 Gestión completa de la comunidad. Incluyendo la resolución de conflictos escalares, la implementación de funcionalidades y la corrección y detección, añadiendo la prevención de antagonismos y contraposiciones.<br> 
 A esta altura, se presenta una abolición de la responsabilidad de moderación explícita. 
 

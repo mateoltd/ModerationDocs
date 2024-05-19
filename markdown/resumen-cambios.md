@@ -3,14 +3,12 @@ order: 2
 ---
 
 # Resumen de cambios
-Estamos en la versión `v.1.3.3` del documento. En esta versión, se han actualizado:
+Estamos en la versión `v.2.0.0` del documento. En esta versión, se han actualizado:
 ```diff
-+ (v1.3.2) Nuevo comunicado interno.
-+ (v1.3.2) Resumen y ajuste en la explicación de «Política de privacidad para el Equipo»
-+ (v1.3.2) Pie de página corregido en algunos documentos.
-+ (v1.3.2) Introducción del apartado «Preguntas frecuentes» para su próximo uso en el apartado de comunicados. 
-+ Cambios en el sistema de moderación de Nuestro Discord.
-+ Actualización en las reglas internas de Nuestro Discord.
+- El SISAM ha sido descontinuado.
+- El rol «Coordinador» se ha eliminado.
++ Se han ajustado los nombres de los roles del [sistema de moderación](./nuestro-discord/utilidades/sistema-de-moderacion.md).
++ Actualización del [punto 1.1.7](./nuestro-discord/reglas-del-servidor.md) de las reglas de nuestro servidor.
++ Aclaración del [punto 1 y 5](./nuestro-discord/reglas-internas.md) de las reglas internas de nuestro equipo de moderación.
++ Adición de un resumen en las reglas del servidor, para consultas rápidas.
 ```
-
-+ Nuevo comunicado accesible en: [Atención al público](./nuestro-discord/comunicados/internos/atencion-al-publico.md)

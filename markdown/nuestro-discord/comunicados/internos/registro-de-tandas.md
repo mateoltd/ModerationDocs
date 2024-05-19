@@ -1,3 +1,6 @@
+---
+visibility: hidden
+---
 # Registro de tandas
 La lista a continuación es la organización que se ha implementado en esta tanda, en la cuál los [!badge icon="../../../media/supervisor.webp" variant="primary" text="@Mentor" size="l"](#) estarán a cargo de un grupo de aprendices y los tutearán y guiarán durante su semana de prueba.
 
